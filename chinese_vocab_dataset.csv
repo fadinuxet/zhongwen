@@ -1,0 +1,631 @@
+hanzi,pinyin,english,category,frequency,source_files
+上,shàng,up,directions,5,Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg
+下,xià,down,directions,5,Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg
+右,yòu,right,directions,5,Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg
+左,zuǒ,left,directions,5,Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg
+东,dōng,east,directions,4,Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg
+前,qián,front,directions,4,Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg
+后,hòu,back,directions,4,Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg
+我去,wǒ qù,I go,verbs,4,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg;Screenshot_20260610_150142_Facebook.jpg
+西,xī,west,directions,4,Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg
+一天,yī tiān,1 day,time,3,Screenshot_20260604_220406_Facebook.jpg;Screenshot_20260604_220408_Facebook.jpg;Screenshot_20260613_094700_Facebook.jpg
+买,mǎi,To buy,HSK1,3,Screenshot_20260531_224435_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg;Screenshot_20260610_160459_Facebook.jpg
+从不,cóng bù,never,adverbs,3,Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260606_164202_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg
+偶尔,ǒu ěr,occasionally,adverbs,3,Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260606_164151_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg
+北,běi,north,directions,3,Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg
+南,nán,south,directions,3,Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg
+和,hé,and,conjunctions,3,Screenshot_20260603_085049_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_162132_Facebook.jpg
+国,guó,country,HSK1,3,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_073213_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+地,dì,Adverbial particle (地 + Verb),characters,3,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_073104_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+多少钱,duō shǎo qián,How much?,shopping,3,Screenshot_20260602_101352_Facebook.jpg;Screenshot_20260606_152937_Facebook.jpg;Screenshot_20260606_152944_Facebook.jpg
+家,jiā,home,HSK1,3,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_073213_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+当然,dāng rán,Of course!,phrases,3,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg;Screenshot_20260611_014835_Facebook.jpg
+怎么了,zěn me le,What's up?,phrases,3,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg;Screenshot_20260603_112231_Facebook.jpg
+总是,zǒng shì,always,adverbs,3,Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260606_164218_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg
+我不知道,wǒ bù zhī dào,I don't know,phrases,3,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg;Screenshot_20260613_094527_Facebook.jpg
+我买,wǒ mǎi,I buy,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我买了,wǒ mǎi le,I bought,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我做,wǒ zuò,I do,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我做了,wǒ zuò le,I did,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我去了,wǒ qù le,I went,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我吃,wǒ chī,I eat,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我吃了,wǒ chī le,I ate,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我来,wǒ lái,I come,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我来了,wǒ lái le,I came,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我看,wǒ kàn,I see,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我看了,wǒ kàn le,I saw,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我要买,wǒ yào mǎi,I'm going to buy,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我要做,wǒ yào zuò,I'm going to do,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我要去,wǒ yào qù,I'm going to go,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我要吃,wǒ yào chī,I'm going to eat,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我要来,wǒ yào lái,I'm going to come,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+我要看,wǒ yào kàn,I'm going to see,verbs,3,Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg
+是,shì,yes / to be,characters,3,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_162132_Facebook.jpg
+有时,yǒu shí,sometimes,adverbs,3,Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260606_164211_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg
+来,lái,come,HSK1,3,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+死,sǐ,die,characters,3,Screenshot_20260531_224513_Facebook.jpg;Screenshot_20260604_220732_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+菜,cài,dish / vegetable,HSK1,3,Screenshot_20260608_220918_Facebook.jpg;Screenshot_20260608_221617_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+说,shuō,talk / say,HSK1,3,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+鱼,yú,fish,characters,3,Screenshot_20260604_220732_Facebook.jpg;Screenshot_20260608_221617_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+一,yī,one,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+一会儿,yī huì ér,A moment,time,2,Screenshot_20260604_231730_Facebook.jpg;Screenshot_20260613_094700_Facebook.jpg
+三,sān,three,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+不,bù,no / not,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+不可能,bù kě néng,impossible,phrases,2,Screenshot_20260604_220416_Facebook.jpg;Screenshot_20260608_223717_Facebook.jpg
+中,zhōng,middle,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+二,èr,two,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+二十四个小时,èr shí sì gè xiǎo shí,24 hours,time,2,Screenshot_20260604_220406_Facebook.jpg;Screenshot_20260604_220408_Facebook.jpg
+五十行吗,wǔ shí xíng ma,How about 50?,shopping,2,Screenshot_20260606_152937_Facebook.jpg;Screenshot_20260606_152944_Facebook.jpg
+人,rén,people,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+什么情况,shén me qíng kuàng,What's going on?,phrases,2,Screenshot_20260608_223717_Facebook.jpg;Screenshot_20260610_071547_Facebook.jpg
+他,tā,he / she,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+他会听？,tā huì tīng?,Can he listen?,verbs,2,Screenshot_20260610_161224_Facebook.jpg
+他会唱？,tā huì chàng?,Can he sing?,verbs,2,Screenshot_20260610_161224_Facebook.jpg
+他会看？,tā huì kàn?,Can he read?,verbs,2,Screenshot_20260610_161224_Facebook.jpg
+他会说？,tā huì shuō?,Can he speak?,verbs,2,Screenshot_20260610_161224_Facebook.jpg
+但是,dàn shì,but,conjunctions,2,Screenshot_20260531_223608_Facebook.jpg;Screenshot_20260603_085044_Facebook.jpg
+你,nǐ,you,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+你怎么了？,Nǐ zěnme le?,What happened to you,phrases,2,Screenshot_20260608_223550_Facebook.jpg;Screenshot_20260610_071547_Facebook.jpg
+写,xiě,To write,HSK1,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg
+出,chū,exit,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+十,shí,ten,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+卖,mài,to sell,verbs,2,Screenshot_20260531_224435_Facebook.jpg;Screenshot_20260610_160459_Facebook.jpg
+去,qù,To go,HSK1,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg
+吃,chī,To eat,characters,2,Screenshot_20260610_135305_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+因为,yīn wèi,because,conjunctions,2,Screenshot_20260603_085100_Facebook.jpg;Screenshot_20260612_162132_Facebook.jpg
+多,duō,more / many,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+大,dà,big / great,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+大学,dà xué,university,education,2,Screenshot_20260604_221653_Facebook.jpg;Screenshot_20260605_073628_Facebook.jpg
+天,tiān,sky / day,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+太好了,tài hǎo le,That's great!,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+太贵了,tài guì le,That's too much,shopping,2,Screenshot_20260606_152937_Facebook.jpg;Screenshot_20260606_152944_Facebook.jpg
+好,hǎo,good,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+好主意,hǎo zhǔ yì,Good idea,phrases,2,Screenshot_20260603_112231_Facebook.jpg;Screenshot_20260612_132306_Facebook.jpg
+好久,hǎo jiǔ,a long time,time,2,Screenshot_20260531_224714_Facebook.jpg;Screenshot_20260531_224723_Facebook.jpg
+好久不见,hǎo jiǔ bù jiàn,long time no see,greetings,2,Screenshot_20260531_224717_Facebook.jpg;Screenshot_20260531_224725_Facebook.jpg
+如果,rú guǒ,if,conjunctions,2,Screenshot_20260603_085039_Facebook.jpg;Screenshot_20260611_014835_Facebook.jpg
+子,zǐ,son / child,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+学,xué,learn,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+对不起,duì bu qǐ,I'm sorry,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+小,xiǎo,small,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+常常,cháng cháng,Often,adverbs,2,Screenshot_20260606_164205_Facebook.jpg;Screenshot_20260610_073213_Facebook.jpg
+很少,hěn shǎo,Seldom,adverbs,2,Screenshot_20260606_164158_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg
+我,wǒ,I,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+我冷,wǒ lěng,I'm cold,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+我同意,wǒ tóng yì,I agree,phrases,2,Screenshot_20260603_112231_Facebook.jpg;Screenshot_20260612_132306_Facebook.jpg
+我渴了,wǒ kě le,I'm thirsty,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+我热,wǒ rè,I'm hot,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+我爱你,wǒ ài nǐ,I love you,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+我累了,wǒ lèi le,I'm tired,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+我认为她是好老师,wǒ rèn wéi tā shì hǎo lǎo shī,I think she is a good teacher,,2,Screenshot_20260610_234609_Facebook.jpg;Screenshot_20260610_234611_Facebook.jpg
+我饿了,wǒ è le,I'm hungry,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+所以,suǒ yǐ,so / therefore,conjunctions,2,Screenshot_20260603_085032_Facebook.jpg;Screenshot_20260612_162132_Facebook.jpg
+手,shǒu,hand,characters,2,Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141000_Facebook.jpg
+打折吗,dǎ zhé ma,Any discount?,shopping,2,Screenshot_20260606_152937_Facebook.jpg;Screenshot_20260606_152944_Facebook.jpg
+有,yǒu,have,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+水,shuǐ,water,characters,2,Screenshot_20260608_220918_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+没事,méi shì,It's fine,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+没关系,méi guān xi,It doesn't matter,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+没问题,méi wèn tí,No problem,greetings,2,Screenshot_20260602_214809_Facebook.jpg;Screenshot_20260612_132306_Facebook.jpg
+牛,niú,cow,characters,2,Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141930_Facebook.jpg
+狗,gǒu,dog,characters,2,Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141930_Facebook.jpg
+猪,zhū,pig,characters,2,Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141930_Facebook.jpg
+生,shēng,born / life,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+的,de,Possessive particle (的 + Noun),grammar,2,Screenshot_20260611_073104_Facebook.jpg;Screenshot_20260612_162132_Facebook.jpg
+盐,yán,salt,food,2,Screenshot_20260531_224739_Facebook.jpg;Screenshot_20260608_220918_Facebook.jpg
+看,kàn,To look / To read,HSK1,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg
+睡,shuì,to sleep,HSK1,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_160459_Facebook.jpg
+票,piào,ticket,HSK1,2,Screenshot_20260604_220416_Facebook.jpg;Screenshot_20260610_073213_Facebook.jpg
+等一下,děng yī xià,wait a minute,phrases,2,Screenshot_20260531_230801_Facebook.jpg;Screenshot_20260603_112231_Facebook.jpg
+糖,táng,sugar,food,2,Screenshot_20260531_224739_Facebook.jpg;Screenshot_20260608_220918_Facebook.jpg
+经常,jīng cháng,usually,adverbs,2,Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg
+老,lǎo,Old / Prefix,HSK1,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_204859_Facebook.jpg
+老人,lǎo rén,Old person,vocabulary,2,Screenshot_20260611_204859_Facebook.jpg;Screenshot_20260612_141948_Facebook.jpg
+老公,lǎo gōng,Husband,vocabulary,2,Screenshot_20260611_204859_Facebook.jpg;Screenshot_20260612_141948_Facebook.jpg
+老婆,lǎo pó,Wife,vocabulary,2,Screenshot_20260611_204859_Facebook.jpg;Screenshot_20260612_141948_Facebook.jpg
+老师,lǎo shī,Teacher,vocabulary,2,Screenshot_20260611_204859_Facebook.jpg;Screenshot_20260612_141948_Facebook.jpg
+老板,lǎo bǎn,Boss,vocabulary,2,Screenshot_20260611_204859_Facebook.jpg;Screenshot_20260612_141948_Facebook.jpg
+肉,ròu,meat,characters,2,Screenshot_20260608_221617_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+脚,jiǎo,foot,characters,2,Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141000_Facebook.jpg
+苹果,píng guǒ,apple,HSK1,2,Screenshot_20260608_221617_Facebook.jpg;Screenshot_20260611_013209_Facebook.jpg
+茶,chá,tea,characters,2,Screenshot_20260608_220918_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+葡萄,pú táo,grape,food,2,Screenshot_20260602_145410_Facebook.jpg;Screenshot_20260611_013209_Facebook.jpg
+蘑菇,Mó gū,mushroom,food,2,Screenshot_20260531_223353_Facebook.jpg;Screenshot_20260531_223416_Facebook.jpg
+衣,yī,clothes,characters,2,Screenshot_20260611_013044_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+见,jiàn,look,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+走吧,zǒu ba,Let's go!,phrases,2,Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg
+通常,tōng cháng,usually,adverbs,2,Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260606_164154_Facebook.jpg
+雨,yǔ,rain,characters,2,Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+饭,fàn,rice (cooked),characters,2,Screenshot_20260608_220918_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg
+香蕉,xiāng jiāo,banana,HSK1,2,Screenshot_20260608_221617_Facebook.jpg;Screenshot_20260611_013209_Facebook.jpg
+马,mǎ,horse,characters,2,Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141930_Facebook.jpg
+高,gāo,high,opposites,2,Screenshot_20260531_224502_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg
+鸡,jī,chicken,characters,2,Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141930_Facebook.jpg
+鸡蛋,jī dàn,egg,food,2,Screenshot_20260531_223421_Facebook.jpg;Screenshot_20260608_221617_Facebook.jpg
+一下,yīxià,"Once, a little",HSK1,1,Screenshot_20260613_094700_Facebook.jpg
+一个小时,yī gè xiǎo shí,1 hour,time,1,Screenshot_20260604_220403_Facebook.jpg
+一二三四五六七,yī èr sān sì wǔ liù qī,One two three four five six seven,numbers,1,Screenshot_20260611_210718_Facebook.jpg
+一些,yīxiē,"Some, a few",HSK1,1,Screenshot_20260613_094700_Facebook.jpg
+一共,yīgòng,"Altogether, in total",HSK1,1,Screenshot_20260613_094700_Facebook.jpg
+一分钟,yī fēn zhōng,1 minute,time,1,Screenshot_20260604_220400_Facebook.jpg
+一半,yībàn,Half,HSK1,1,Screenshot_20260613_094700_Facebook.jpg
+一块,yīkuài,One piece,HSK1,1,Screenshot_20260613_094700_Facebook.jpg
+一定,yīdìng,"Certainly, surely",HSK1,1,Screenshot_20260613_094700_Facebook.jpg
+一样,yīyàng,Same as,HSK1,1,Screenshot_20260613_094700_Facebook.jpg
+一次,yīcì,One time,HSK1,1,Screenshot_20260613_094700_Facebook.jpg
+一点儿,yīdiǎnr,A little bit,HSK1,1,Screenshot_20260613_094700_Facebook.jpg
+一般,yī bān,Normally,adverbs,1,Screenshot_20260606_164215_Facebook.jpg
+一起,yīqǐ,Together,HSK1,1,Screenshot_20260613_094700_Facebook.jpg
+七,qī,seven,numbers,1,Screenshot_20260604_144454_Facebook.jpg
+三十,sān shí,thirty,numbers,1,Screenshot_20260602_101352_Facebook.jpg
+上学,shàng xué,go to school,verbs,1,Screenshot_20260602_201451_Facebook.jpg
+上楼,shàng lóu,going upstairs,verbs,1,Screenshot_20260602_201451_Facebook.jpg
+上班,shàng bān,go to work,verbs,1,Screenshot_20260602_201451_Facebook.jpg
+上课,shàng kè,go to class,verbs,1,Screenshot_20260602_201451_Facebook.jpg
+不好意思,bù hǎo yì si,Sorry / Excuse me,greetings,1,Screenshot_20260602_214809_Facebook.jpg
+不常,bù cháng,not often,adverbs,1,Screenshot_20260602_150620_Facebook.jpg
+不时,bù shí,now and then,adverbs,1,Screenshot_20260602_150620_Facebook.jpg
+不知深浅,bù zhī shēn qiǎn,have no sense of propriety,opposites,1,Screenshot_20260531_224511_Facebook.jpg
+不见,bù jiàn,not seen,greetings,1,Screenshot_20260531_224723_Facebook.jpg
+为了,wéi le,for,grammar,1,Screenshot_20260612_162132_Facebook.jpg
+主,zhǔ,master,characters,1,Screenshot_20260612_131553_Facebook.jpg
+主任,zhǔ rèn,doctor (department head),,1,Screenshot_20260610_150142_Facebook.jpg
+义,yì,righteousness,,1,Screenshot_20260611_013056_Facebook.jpg
+乌,wū,crow,,1,Screenshot_20260611_013044_Facebook.jpg
+九,jiǔ,nine,numbers,1,Screenshot_20260604_144454_Facebook.jpg
+书店,shū diàn,bookshop,,1,Screenshot_20260604_221653_Facebook.jpg
+书架,shū jià,Bookshelf,furniture,1,Screenshot_20260612_192048_Facebook.jpg
+买卖,mǎi mai,business,verbs,1,Screenshot_20260531_224435_Facebook.jpg
+二百五,èr bǎi wǔ,250 / stupid person,,1,Screenshot_20260610_150142_Facebook.jpg
+五,wǔ,five,numbers,1,Screenshot_20260604_144454_Facebook.jpg
+些,xiē,some,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+什么,shén me,what,question words,1,Screenshot_20260531_223825_Facebook.jpg
+什么时候,shén me shí hòu,when,question words,1,Screenshot_20260531_223825_Facebook.jpg
+以后,yǐ hòu,after / later,time,1,Screenshot_20260604_231730_Facebook.jpg
+似乎,sì hū,seem,adverbs,1,Screenshot_20260601_091321_Facebook.jpg
+低,dī,low,opposites,1,Screenshot_20260531_224502_Facebook.jpg
+余额,yú é,balance,banking,1,Screenshot_20260602_201455_Facebook.jpg
+你为什么累？,Nǐ wèishénme lèi?,Why are you tired?,phrases,1,Screenshot_20260608_223550_Facebook.jpg
+你什么意思？,nǐ shénme yì sī,What do you mean?,phrases,1,Screenshot_20260613_130455_Facebook.jpg
+你会说中文吗？,nǐ huì shuō zhōng wén ma,Do you speak Chinese?,phrases,1,Screenshot_20260611_071257_Facebook.jpg
+你呢,nǐ ne,How about you?,phrases,1,Screenshot_20260603_112231_Facebook.jpg
+你喜欢什么？,nǐ xǐ huān shénme,What do you like?,phrases,1,Screenshot_20260613_130455_Facebook.jpg
+你喜欢吃什么水果,Nǐ xǐ huān chī shén me shuǐ guǒ,What fruit do you like to eat?,phrases,1,Screenshot_20260602_145402_Facebook.jpg
+你喜欢吃苹果吗？,nǐ xǐhuan chī píngguǒ ma,Do you like eating apples?,phrases,1,Screenshot_20260611_071810_Facebook.jpg
+你好,nǐ hǎo,Hello,greetings,1,Screenshot_20260604_220416_Facebook.jpg
+你想吃，但是不餓嗎？,"Nǐ xiǎng chī, dànshì bú è ma?","You want to eat, but aren't hungry?",grammar,1,Screenshot_20260531_223608_Facebook.jpg
+你想要什么？,nǐ xiǎng yào shénme,What do you want?,phrases,1,Screenshot_20260613_130455_Facebook.jpg
+你是我最好的朋友。,nǐ shì wǒ zuì hǎo de péng yǒu,You are my best friend.,family,1,Screenshot_20260604_231211_Facebook.jpg
+你每天吃苹果吗？,nǐ měitiān chī píngguǒ ma,Do you eat apples every day?,phrases,1,Screenshot_20260611_071810_Facebook.jpg
+你没事吧,nǐ méi shì ba,Are you okay,phrases,1,Screenshot_20260610_071547_Facebook.jpg
+你的中文说得很好。,nǐ de zhōng wén shuō de hěn hǎo,You speak Chinese very well.,phrases,1,Screenshot_20260611_071257_Facebook.jpg
+你确定吗,nǐ què dìng ma,Are you sure?,phrases,1,Screenshot_20260603_112231_Facebook.jpg
+你能教我中文吗,nǐ néng jiāo wǒ zhōngwén ma,Can you teach me Chinese?,phrases,1,Screenshot_20260612_132545_Facebook.jpg
+你能用中文和我聊天吗？,nǐ néng yòng zhōng wén hé wǒ liáo tiān ma,Can you chat with me in Chinese?,phrases,1,Screenshot_20260603_113045_Facebook.jpg
+你能说慢一点吗,nǐ néng shuō màn yīdiǎn ma,Can you speak more slowly?,phrases,1,Screenshot_20260612_132545_Facebook.jpg
+你要多少啊,nǐ yào duō shǎo a,How much do you want?,phrases,1,Screenshot_20260602_214320_Facebook.jpg
+你认为呢？,nǐ rèn wèi ne,What do you think?,phrases,1,Screenshot_20260613_130455_Facebook.jpg
+你讲/你说,nǐ jiǎng / nǐ shuō,You say,phrases,1,Screenshot_20260610_071645_Facebook.jpg
+你说什么？,nǐ shuō shénme,What do you say?,phrases,1,Screenshot_20260613_130455_Facebook.jpg
+便宜,pián yí,cheap,,1,Screenshot_20260604_220732_Facebook.jpg
+做,zuò,To do,HSK1,1,Screenshot_20260610_135305_Facebook.jpg
+充电,chōng diàn,charge (battery),electronics,1,Screenshot_20260602_201550_Facebook.jpg
+先到先得,xiān dào xiān dé,first come first served,,1,Screenshot_20260604_223832_Facebook.jpg
+兔,tù,Rabbit,zodiac,1,Screenshot_20260612_141930_Facebook.jpg
+入,rù,enter,characters,1,Screenshot_20260612_131553_Facebook.jpg
+八,bā,eight,numbers,1,Screenshot_20260604_144454_Facebook.jpg
+六,liù,six,numbers,1,Screenshot_20260604_144454_Facebook.jpg
+六十分钟,liù shí fēn zhōng,60 minutes,time,1,Screenshot_20260604_220403_Facebook.jpg
+六十秒,liù shí miǎo,60 seconds,time,1,Screenshot_20260604_220400_Facebook.jpg
+兴奋,xīng fèn,excited,emotions,1,Screenshot_20260602_104804_Facebook.jpg
+几乎,jī hū,almost,time,1,Screenshot_20260612_140936_Facebook.jpg
+出去,chū qù,go out,verbs,1,Screenshot_20260602_145303_Facebook.jpg
+出名,chū míng,famous,verbs,1,Screenshot_20260601_115620_Facebook.jpg
+出国,chū guó,go abroad,verbs,1,Screenshot_20260601_115620_Facebook.jpg
+出现,chū xiàn,appear,verbs,1,Screenshot_20260601_115620_Facebook.jpg
+出门,chū mén,go out (through the door),verbs,1,Screenshot_20260601_115620_Facebook.jpg
+分出高低,fēn chū gāo dī,determine superiority,opposites,1,Screenshot_20260531_224505_Facebook.jpg
+刚刚,gāng gāng,just now,time,1,Screenshot_20260612_140936_Facebook.jpg
+别,bié,don't,verbs,1,Screenshot_20260531_224657_Facebook.jpg
+别吵了,bié chǎo le,keep quiet,,1,Screenshot_20260611_014144_Facebook.jpg
+别担心,bié dān xīn,Don't worry,phrases,1,Screenshot_20260608_221707_Facebook.jpg
+别碰我,bié pèng wǒ,don't touch me,verbs,1,Screenshot_20260531_224657_Facebook.jpg
+别说了。,Bié shuō le.,Shut up.,phrases,1,Screenshot_20260610_074819_Facebook.jpg
+剪发,jiǎn fà,haircut,verbs,1,Screenshot_20260602_101352_Facebook.jpg
+剪发多少钱,jiǎn fà duō shǎo qián,How much for a haircut?,phrases,1,Screenshot_20260602_101352_Facebook.jpg
+力,lì,strength,characters,1,Screenshot_20260612_131553_Facebook.jpg
+加油,jiā yóu,Keep going,phrases,1,Screenshot_20260612_132306_Facebook.jpg
+医院,yī yuàn,hospital,,1,Screenshot_20260604_221653_Facebook.jpg
+十五,shí wǔ,fifteen,numbers,1,Screenshot_20260602_101352_Facebook.jpg
+千,qiān,thousand,characters,1,Screenshot_20260612_131553_Facebook.jpg
+午,wǔ,noon,time,1,Screenshot_20260611_013053_Facebook.jpg
+午饭很好吃。,wǔfàn hěn hǎo chī,Lunch is very delicious.,food,1,Screenshot_20260611_072226_Facebook.jpg
+即将,jí jiāng,about to,time,1,Screenshot_20260612_140936_Facebook.jpg
+原谅我,yuán liàng wǒ,Forgive me,phrases,1,Screenshot_20260603_112231_Facebook.jpg
+反,fǎn,reverse side,opposites,1,Screenshot_20260531_224456_Facebook.jpg
+反正,fǎn zhèng,anyway,opposites,1,Screenshot_20260531_224456_Facebook.jpg
+取款,qǔ kuǎn,withdrawal,banking,1,Screenshot_20260602_201455_Facebook.jpg
+口,kǒu,mouth,characters,1,Screenshot_20260612_131553_Facebook.jpg
+只能,zhǐ néng,can only,,1,Screenshot_20260604_220416_Facebook.jpg
+只要,zhīyào,as long as,,1,Screenshot_20260611_014835_Facebook.jpg
+吃，我每天吃一个苹果。,"chī, wǒ měitiān chī yí gè píngguǒ","Yes, I eat one apple every day.",phrases,1,Screenshot_20260611_071810_Facebook.jpg
+同,tóng,same,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+听一听,tīng yī tīng,Give it a listen,verbs,1,Screenshot_20260612_192657_Facebook.jpg
+听听,tīng tīng,listen,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+听见了没有,tīng jiàn le méi yǒu,did you hear that?,verbs,1,Screenshot_20260531_224657_Facebook.jpg
+和西红柿啊,hé xī hóng shì a,And tomatoes,food,1,Screenshot_20260602_214318_Facebook.jpg
+咖啡,kā fēi,coffee,HSK1,1,Screenshot_20260608_220918_Facebook.jpg
+咱们走,zán men zǒu,let's go / hey we go,phrases,1,Screenshot_20260531_230801_Facebook.jpg
+咸,xián,salty,food,1,Screenshot_20260604_220835_Facebook.jpg
+哪个,nǎ ge,which,question words,1,Screenshot_20260531_223825_Facebook.jpg
+哪里,nǎ lǐ,where,question words,1,Screenshot_20260531_223825_Facebook.jpg
+唱唱,chàngchàng,sing,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+商店,shāng diàn,store,,1,Screenshot_20260604_221653_Facebook.jpg
+喂，胡总,"wèi, Hú zǒng","Hello, Mr. Hu",greetings,1,Screenshot_20260606_163928_Facebook.jpg
+喜,xǐ,happiness,characters,1,Screenshot_20260612_131553_Facebook.jpg
+喜欢，我很喜欢苹果。,"xǐhuan, wǒ hěn xǐhuan píngguǒ","Yes, I really like apples.",phrases,1,Screenshot_20260611_071810_Facebook.jpg
+喝,hē,To drink,HSK1,1,Screenshot_20260610_135305_Facebook.jpg
+嘴巴,zuǐ bā,mouth,body,1,Screenshot_20260612_141000_Facebook.jpg
+四,sì,four,numbers,1,Screenshot_20260604_144454_Facebook.jpg
+因为我工作很多。,Yīnwèi wǒ gōngzuò hěn duō.,Because I have a lot of work.,phrases,1,Screenshot_20260608_223550_Facebook.jpg
+国内,guónèi,"Internal, home",HSK1,1,Screenshot_20260610_073213_Facebook.jpg
+国外,guówài,"Foreign, abroad",HSK1,1,Screenshot_20260610_073213_Facebook.jpg
+土,tǔ,earth,characters,1,Screenshot_20260612_131553_Facebook.jpg
+在,zài,located at / in,characters,1,Screenshot_20260612_131553_Facebook.jpg
+在这里，在这里,"zài zhè lǐ, zài zhè lǐ","Here, here",phrases,1,Screenshot_20260611_210718_Facebook.jpg
+坐,zuò,to sit,HSK1,1,Screenshot_20260610_160459_Facebook.jpg
+坐坐,zuò zuò,sit for a while,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+外,wài,outside,HSK1,1,Screenshot_20260611_013609_Facebook.jpg
+多谢,duō xiè,Thanks a lot,greetings,1,Screenshot_20260608_221707_Facebook.jpg
+大家,dà jiā,everyone,pronouns,1,Screenshot_20260605_073628_Facebook.jpg
+大山,dà shān,tall mountain,nature,1,Screenshot_20260605_073628_Facebook.jpg
+大概,dà gài,probably,adverbs,1,Screenshot_20260601_091321_Facebook.jpg
+大海,dà hǎi,sea,nature,1,Screenshot_20260605_073628_Facebook.jpg
+大笑,dà xiào,laugh out loud,verbs,1,Screenshot_20260605_073628_Facebook.jpg
+大象,dà xiàng,elephant,nature,1,Screenshot_20260605_073628_Facebook.jpg
+大雪,dà xuě,heavy snow,nature,1,Screenshot_20260605_073628_Facebook.jpg
+太多了,tài duō le,So many,phrases,1,Screenshot_20260608_223600_Facebook.jpg
+太快了,tài kuài le,So quickly,phrases,1,Screenshot_20260608_223600_Facebook.jpg
+太早了,tài zǎo le,So early,phrases,1,Screenshot_20260608_223600_Facebook.jpg
+太热了,tài rè le,So hot,phrases,1,Screenshot_20260608_223600_Facebook.jpg
+太简单了,tài jiǎn dān le,So easy,phrases,1,Screenshot_20260608_223600_Facebook.jpg
+夫,fū,man,characters,1,Screenshot_20260612_131553_Facebook.jpg
+头发,tóu fā,hair,body,1,Screenshot_20260612_141000_Facebook.jpg
+女,nǚ,female,characters,1,Screenshot_20260612_131553_Facebook.jpg
+她,tā,she,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+她今天心情不好,tā jīntiān xīnqíng bù hǎo,She's in a bad mood today,,1,Screenshot_20260604_222441_Facebook.jpg
+她离开了,tā lí kāi le,She left,phrases,1,Screenshot_20260608_221707_Facebook.jpg
+好的,hǎo de,Got it / OK,greetings,1,Screenshot_20260602_214809_Facebook.jpg
+好辣,hǎo là,so spicy,food,1,Screenshot_20260531_223410_Facebook.jpg
+妈,mā,mother,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+姨,yí,aunt,family,1,Screenshot_20260611_013049_Facebook.jpg
+字,zì,word / character,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+存款,cún kuǎn,deposit,banking,1,Screenshot_20260602_201455_Facebook.jpg
+学校,xué xiào,school,,1,Screenshot_20260604_221653_Facebook.jpg
+安静,ān jìng,be quiet,,1,Screenshot_20260611_014152_Facebook.jpg
+完成,wán chéng,complete,verbs,1,Screenshot_20260604_222538_Facebook.jpg
+完成任务,wán chéng rènwù,complete task,verbs,1,Screenshot_20260604_222538_Facebook.jpg
+完美,wán měi,Perfect,phrases,1,Screenshot_20260612_132306_Facebook.jpg
+害怕,hài pà,scared,emotions,1,Screenshot_20260602_104804_Facebook.jpg
+害羞,hài xiū,shy,emotions,1,Screenshot_20260602_104804_Facebook.jpg
+家人,jiārén,Family,HSK1,1,Screenshot_20260610_073213_Facebook.jpg
+密码,mì mǎ,password,banking,1,Screenshot_20260602_201455_Facebook.jpg
+对,duì,right / correct,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+对公账户,duì gōng zhàng hù,Corporate Account,finance,1,Screenshot_20260606_163928_Facebook.jpg
+尚未,shàng wèi,not yet,time,1,Screenshot_20260612_140936_Facebook.jpg
+尝尝,chángcháng,have a taste,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+山,shān,mountain,characters,1,Screenshot_20260612_131553_Facebook.jpg
+川,chuān,river,characters,1,Screenshot_20260612_131553_Facebook.jpg
+工,gōng,work,characters,1,Screenshot_20260612_131553_Facebook.jpg
+差不多,chā bu duō,pretty much / almost,adverbs,1,Screenshot_20260601_091321_Facebook.jpg
+已经,yǐ jīng,already done,time,1,Screenshot_20260612_140936_Facebook.jpg
+市场,shì chǎng,market,,1,Screenshot_20260604_221653_Facebook.jpg
+帮个忙呗,bāng gè máng bài,Do me a favor.,,1,Screenshot_20260604_225635_Facebook.jpg
+帮帮我,bāng bāng wǒ,Help me,phrases,1,Screenshot_20260531_230907_Facebook.jpg
+干,gān,dry,characters,1,Screenshot_20260612_131553_Facebook.jpg
+干得好,gàn de hǎo,Good job,phrases,1,Screenshot_20260612_132306_Facebook.jpg
+年,nián,year,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+幸,xìng,luck,characters,1,Screenshot_20260612_131553_Facebook.jpg
+床,chuáng,Bed,furniture,1,Screenshot_20260612_192048_Facebook.jpg
+床头柜,chuáng tóu guì,Bedside Table,furniture,1,Screenshot_20260612_192048_Facebook.jpg
+店,diàn,shop,characters,1,Screenshot_20260612_131553_Facebook.jpg
+开,kāi,open,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+开心,kāi xīn,happy,emotions,1,Screenshot_20260602_104804_Facebook.jpg
+开玩笑的。,Kāi wánxiào de.,I'm joking.,phrases,1,Screenshot_20260610_074824_Facebook.jpg
+很高兴认识你,hěn gāo xìng rèn shi nǐ,Nice to meet you,greetings,1,Screenshot_20260610_075124_Facebook.jpg
+得,de,Complement particle (得 + Adj.),grammar,1,Screenshot_20260611_073104_Facebook.jpg
+微信,wēi xìn,WeChat,apps,1,Screenshot_20260606_163928_Facebook.jpg
+心,xīn,heart / mind,characters,1,Screenshot_20260612_131553_Facebook.jpg
+快一点,kuài yī diǎn,hurry up,phrases,1,Screenshot_20260531_230801_Facebook.jpg
+怎么回事,zěn me huí shì,What's going on?,phrases,1,Screenshot_20260608_223717_Facebook.jpg
+怎么样,zěn me yàng,how about it,question words,1,Screenshot_20260531_223825_Facebook.jpg
+惊讶,jīng yà,surprised,emotions,1,Screenshot_20260602_104804_Facebook.jpg
+想,xiǎng,think / want,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+想想,xiǎngxiǎng,think about,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+慢慢地吃,màn màn de chī,Eat slowly,grammar,1,Screenshot_20260611_073104_Facebook.jpg
+我一毛钱都没有,wǒ yī máo qián dōu méi yǒu,I don't have a single cent,phrases,1,Screenshot_20260602_182410_Facebook.jpg
+我不喜欢,wǒ bù xǐ huān,I don't like it,phrases,1,Screenshot_20260613_094527_Facebook.jpg
+我不在乎,wǒ bù zài hū,I don't care,phrases,1,Screenshot_20260613_094527_Facebook.jpg
+我不在意,wǒ bù zài yì,I don't care,phrases,1,Screenshot_20260612_192228_Facebook.jpg
+我不太舒服,wǒ bú tài shū fu,I'm not feeling well,health,1,Screenshot_20260608_095331_Facebook.jpg
+我不接待,wǒ bù jiē dài,I don't receive (a visitor),phrases,1,Screenshot_20260612_192228_Facebook.jpg
+我不明白,wǒ bù míng bái,I don't get it,phrases,1,Screenshot_20260613_094527_Facebook.jpg
+我不确定。,Wǒ bú què dìng.,I'm not sure.,phrases,1,Screenshot_20260608_221747_Facebook.jpg
+我不累。,wǒ bú lèi,I'm not tired.,health,1,Screenshot_20260608_095350_Facebook.jpg
+我不记得,wǒ bù jì de,I don't remember,phrases,1,Screenshot_20260613_094527_Facebook.jpg
+我不需要,wǒ bù xū yào,I don't need it,phrases,1,Screenshot_20260531_230801_Facebook.jpg
+我中午十二点吃午饭。,wǒ zhōngwǔ shí'èr diǎn chī wǔfàn,I eat lunch at 12 noon.,food,1,Screenshot_20260611_072226_Facebook.jpg
+我今天很累。,Wǒ jīntiān hěn lèi.,I am very tired today.,phrases,1,Screenshot_20260608_223550_Facebook.jpg
+我今年25岁,wǒ jīn nián èr shí wǔ suì,I am 25 years old,phrases,1,Screenshot_20260608_222054_Facebook.jpg
+我以为,wǒ yǐ wéi,I thought,phrases,1,Screenshot_20260610_073748_Facebook.jpg
+我以为他很好,wǒ yǐ wéi tā hěn hǎo,I thought he was very good,phrases,1,Screenshot_20260610_073757_Facebook.jpg
+我以为你买了,wǒ yǐ wéi nǐ mǎi le,I thought you bought it,phrases,1,Screenshot_20260610_073752_Facebook.jpg
+我以为你去过,wǒ yǐ wéi nǐ qù guò,I thought you had been,phrases,1,Screenshot_20260610_073753_Facebook.jpg
+我以为你吃过,wǒ yǐ wéi nǐ chī guò,I thought you had eaten,phrases,1,Screenshot_20260610_073755_Facebook.jpg
+我以为你来了,wǒ yǐ wéi nǐ lái le,I thought you were here,phrases,1,Screenshot_20260610_073750_Facebook.jpg
+我以为她是老师,wǒ yǐ wéi tā shì lǎo shī,I thought she was a teacher,,1,Screenshot_20260610_234550_Facebook.jpg
+我们一起吃午饭吧。,wǒmen yīqǐ chī wǔfàn ba,Let's eat lunch together.,food,1,Screenshot_20260611_072226_Facebook.jpg
+我会说一点中文。,wǒ huì shuō yī diǎn zhōng wén,I can speak a little Chinese.,phrases,1,Screenshot_20260611_071257_Facebook.jpg
+我会说一点点中文,wǒ huì shuō yīdiǎndiǎn zhōngwén,I can speak a little bit of Chinese,phrases,1,Screenshot_20260612_132545_Facebook.jpg
+我可以进来吗？,Wǒ kě yǐ jìn lái ma?,May I come in?,phrases,1,Screenshot_20260608_222351_Facebook.jpg
+我吃午饭。,wǒ chī wǔfàn,I eat lunch.,food,1,Screenshot_20260611_072226_Facebook.jpg
+我听你的,wǒ tīng nǐ de,I'll listen to you,phrases,1,Screenshot_20260610_071645_Facebook.jpg
+我喜欢吃米饭和菜。,wǒ xǐhuan chī mǐfàn hé cài,I like to eat rice and vegetables.,food,1,Screenshot_20260611_072226_Facebook.jpg
+我喜欢看书,wǒ xǐ huān kàn shū,I like reading,phrases,1,Screenshot_20260608_222054_Facebook.jpg
+我回来了,wǒ huí lái le,I'm back,,1,Screenshot_20260610_234907_Facebook.jpg
+我学习中文已经1年了,wǒ xué xí zhōng wén yī jīng yī nián le,I have been learning Chinese for 1 year,phrases,1,Screenshot_20260608_222054_Facebook.jpg
+我很担心明天的考试,wǒ hěn dānxīn míngtiān de kǎoshì,I'm worried about tomorrow's exam,,1,Screenshot_20260604_222431_Facebook.jpg
+我得走了,wǒ děi zǒu le,I have to go now,,1,Screenshot_20260611_070514_Facebook.jpg
+我想去，但是下雨,"Wǒ xiǎng qù, dànshì xià yǔ.","I want to go, but it's raining.",grammar,1,Screenshot_20260531_223608_Facebook.jpg
+我拒绝,wǒ jù jué,I refuse,phrases,1,Screenshot_20260612_192228_Facebook.jpg
+我无所谓,wǒ wú suǒ wèi,I don't care,phrases,1,Screenshot_20260610_071645_Facebook.jpg
+我明白,wǒ míng bái,I understand,phrases,1,Screenshot_20260603_112231_Facebook.jpg
+我来自中国,wǒ lái zì zhōng guó,I come from China,phrases,1,Screenshot_20260608_222054_Facebook.jpg
+我正在学中文。,wǒ zhèng zài xué zhōng wén,I am learning Chinese.,phrases,1,Screenshot_20260611_071257_Facebook.jpg
+我没时间,wǒ méi shí jiān,I don't have time,phrases,1,Screenshot_20260531_230801_Facebook.jpg
+我的中文不太好,wǒ de zhōngwén bú tài hǎo,My Chinese is not very good,phrases,1,Screenshot_20260612_132545_Facebook.jpg
+我的书,wǒ de shū,My book,grammar,1,Screenshot_20260611_073104_Facebook.jpg
+我的包,wǒ de bāo,My bag,grammar,1,Screenshot_20260611_073104_Facebook.jpg
+我的名字是XX,wǒ de míng zì shì XX,My name is XX,greetings,1,Screenshot_20260608_222054_Facebook.jpg
+我的朋友在哪里,wǒ de péng yǒu zài nǎ lǐ,Where is my friend?,phrases,1,Screenshot_20260611_210718_Facebook.jpg
+我的朋友在这里,wǒ de péng yǒu zài zhè lǐ,My friend is here,phrases,1,Screenshot_20260611_210718_Facebook.jpg
+我的鞋,wǒ de xié,My shoe,grammar,1,Screenshot_20260611_073104_Facebook.jpg
+我知道,wǒ zhī dào,I know,phrases,1,Screenshot_20260603_112231_Facebook.jpg
+我要买西红柿,wǒ yào mǎi xī hóng shì,I need to buy tomatoes,food,1,Screenshot_20260602_214315_Facebook.jpg
+我要这个,wǒ yào zhè ge,I want this,phrases,1,Screenshot_20260531_230801_Facebook.jpg
+我要那个,wǒ yào nà ge,I want that,phrases,1,Screenshot_20260531_230801_Facebook.jpg
+我请客,wǒ qǐng kè,My treat,phrases,1,Screenshot_20260603_112231_Facebook.jpg
+我走了,wǒ zǒu le,I'm gone,,1,Screenshot_20260610_234903_Facebook.jpg
+我迷路了,wǒ mí lù le,I'm lost,phrases,1,Screenshot_20260608_221707_Facebook.jpg
+我道歉,wǒ dào qiàn,I apologize,phrases,1,Screenshot_20260603_112231_Facebook.jpg
+或者,huò zhě,or,conjunctions,1,Screenshot_20260603_085051_Facebook.jpg
+打扰一下,dǎ rǎo yī xià,Excuse me,greetings,1,Screenshot_20260608_221707_Facebook.jpg
+抱抱我,bào bào wǒ,Hold me,phrases,1,Screenshot_20260531_230907_Facebook.jpg
+拉,lā,pull,verbs,1,Screenshot_20260611_014948_Facebook.jpg
+拍,pāi,slap / clap,verbs,1,Screenshot_20260611_014948_Facebook.jpg
+拍打,pāi dǎ,Slap,verbs,1,Screenshot_20260610_073202_Facebook.jpg
+拍拍,pāi pāi,pat,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+拜托了,bài tuō le,Please.,greetings,1,Screenshot_20260604_225615_Facebook.jpg
+拳打,quán dǎ,Punch,verbs,1,Screenshot_20260610_073202_Facebook.jpg
+拿起来,ná qǐ lái,pick up,verbs,1,Screenshot_20260602_145255_Facebook.jpg
+按,àn,press,verbs,1,Screenshot_20260611_014948_Facebook.jpg
+挑,tiāo,pick,verbs,1,Screenshot_20260604_220732_Facebook.jpg
+推,tuī,push,verbs,1,Screenshot_20260611_014948_Facebook.jpg
+支付宝,zhī fù bǎo,Alipay,apps,1,Screenshot_20260606_163928_Facebook.jpg
+收到,shōu dào,Received,greetings,1,Screenshot_20260602_214809_Facebook.jpg
+放下,fàng xia,put down,verbs,1,Screenshot_20260602_145258_Facebook.jpg
+敲打,qiāo dǎ,Beat,verbs,1,Screenshot_20260610_073202_Facebook.jpg
+文,wén,text,characters,1,Screenshot_20260612_131553_Facebook.jpg
+无,wú,nothing / none,,1,Screenshot_20260611_013049_Facebook.jpg
+日,rì,sun / day,characters,1,Screenshot_20260612_131553_Facebook.jpg
+时,shí,time,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+时常,shí cháng,often,adverbs,1,Screenshot_20260608_220422_Facebook.jpg
+明天见,míngtiān jiàn,See you tomorrow,greetings,1,Screenshot_20260611_070518_Facebook.jpg
+星,xīng,star,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+是我的错,shì wǒ de cuò,My fault,phrases,1,Screenshot_20260603_112231_Facebook.jpg
+月,yuè,moon,characters,1,Screenshot_20260612_131553_Facebook.jpg
+有时候,yǒushíhou,sometimes,time,1,Screenshot_20260611_014835_Facebook.jpg
+木,mù,wood,characters,1,Screenshot_20260612_131553_Facebook.jpg
+未来,wèi lái,future,time,1,Screenshot_20260604_231730_Facebook.jpg
+机场,jīchǎng,Airport,HSK1,1,Screenshot_20260610_073213_Facebook.jpg
+机票,jīpiào,Plane ticket,HSK1,1,Screenshot_20260610_073213_Facebook.jpg
+村,cūn,village,characters,1,Screenshot_20260612_131553_Facebook.jpg
+来来来,lái lái lái,come on,phrases,1,Screenshot_20260531_230801_Facebook.jpg
+极少,jí shǎo,Rarely,adverbs,1,Screenshot_20260606_164208_Facebook.jpg
+果汁,guǒ zhī,juice,HSK1,1,Screenshot_20260608_220918_Facebook.jpg
+柠檬,níng méng,lemon,food,1,Screenshot_20260611_013209_Facebook.jpg
+查询,chá xún,inquire,banking,1,Screenshot_20260602_201455_Facebook.jpg
+校,xiào,school,characters,1,Screenshot_20260612_131553_Facebook.jpg
+桃子,táo zi,peach,food,1,Screenshot_20260611_013209_Facebook.jpg
+桌子,zhuō zi,Table,furniture,1,Screenshot_20260612_192048_Facebook.jpg
+梳妆台,shū zhuàng tái,Dressing Table,furniture,1,Screenshot_20260612_192048_Facebook.jpg
+椅子,yǐ zi,Chair,furniture,1,Screenshot_20260612_192048_Facebook.jpg
+樱桃,yīng táo,cherry,food,1,Screenshot_20260611_013209_Facebook.jpg
+橘子,júzi,orange,food,1,Screenshot_20260602_145404_Facebook.jpg
+橙子,chéng zi,orange,food,1,Screenshot_20260611_013209_Facebook.jpg
+歇歇,xiē xiē,take a rest,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+正,zhèng,front,opposites,1,Screenshot_20260531_224456_Facebook.jpg
+正在,zhèng zài,currently doing,time,1,Screenshot_20260612_140936_Facebook.jpg
+死活,sǐ huó,firmly; anyway,opposites,1,Screenshot_20260531_224513_Facebook.jpg
+死活不同意,sǐ huó bù tóng yì,wouldn't be seen dead doing (it); firmly disagree,opposites,1,Screenshot_20260531_224517_Facebook.jpg
+比如,bǐrú,for example,,1,Screenshot_20260611_014835_Facebook.jpg
+气,qì,air,characters,1,Screenshot_20260612_131553_Facebook.jpg
+水果,shuǐ guǒ,fruit,HSK1,1,Screenshot_20260608_221617_Facebook.jpg
+求你了,qiú nǐ le,I'm begging you,,1,Screenshot_20260604_225626_Facebook.jpg
+汇款,huì kuǎn,remittance,banking,1,Screenshot_20260602_201455_Facebook.jpg
+汤,tāng,soup,HSK1,1,Screenshot_20260608_220918_Facebook.jpg
+沙发,shā fā,Sofa,furniture,1,Screenshot_20260612_192048_Facebook.jpg
+没,méi,no / not have,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+油,yóu,oil,food,1,Screenshot_20260531_224739_Facebook.jpg
+注意,Zhù yì,pay attention,verbs,1,Screenshot_20260531_223449_Facebook.jpg
+注意我,Zhùyì wǒ,pay attention to me,verbs,1,Screenshot_20260531_223449_Facebook.jpg
+洗洗,xǐ xǐ,wash,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+洗澡,xǐ zǎo,to shower,HSK1,1,Screenshot_20260610_160459_Facebook.jpg
+活,huó,live,opposites,1,Screenshot_20260531_224513_Facebook.jpg
+浅,qiǎn,shallow,opposites,1,Screenshot_20260531_224509_Facebook.jpg
+海,hǎi,sea,characters,1,Screenshot_20260612_131553_Facebook.jpg
+深,shēn,deep,opposites,1,Screenshot_20260531_224509_Facebook.jpg
+深浅,shēn qiǎn,depth,opposites,1,Screenshot_20260531_224509_Facebook.jpg
+火,huǒ,fire,characters,1,Screenshot_20260612_131553_Facebook.jpg
+火车票,huǒchēpiào,Train ticket,HSK1,1,Screenshot_20260610_073213_Facebook.jpg
+烦死了,fán sǐ le,so annoying / I'm so fed up,phrases,1,Screenshot_20260531_230100_Facebook.jpg
+爱,ài,love,characters,1,Screenshot_20260612_131553_Facebook.jpg
+牙齿,yá chǐ,tooth,body,1,Screenshot_20260612_141000_Facebook.jpg
+牛奶,niú nǎi,milk,HSK1,1,Screenshot_20260608_220918_Facebook.jpg
+特别注意,Tèbié Zhùyì,pay special attention,verbs,1,Screenshot_20260531_223449_Facebook.jpg
+猜一猜,cāi yī cāi,Take a guess,verbs,1,Screenshot_20260612_192701_Facebook.jpg
+猜猜,cāi cāi,guess,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+猫,māo,cat,characters,1,Screenshot_20260612_131553_Facebook.jpg
+猴,hóu,Monkey,zodiac,1,Screenshot_20260612_141930_Facebook.jpg
+玉,yù,jade,characters,1,Screenshot_20260612_131553_Facebook.jpg
+王,wáng,king,characters,1,Screenshot_20260612_131553_Facebook.jpg
+玩玩,wán wán,play,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+现在,xiàn zài,now,time,1,Screenshot_20260604_231730_Facebook.jpg
+瓜,guā,melon,food,1,Screenshot_20260602_214703_Facebook.jpg
+甜,tián,sweet,food,1,Screenshot_20260604_220835_Facebook.jpg
+甜不甜,tián bù tián,Is it sweet?,food,1,Screenshot_20260602_214703_Facebook.jpg
+生气,shēng qì,angry,emotions,1,Screenshot_20260602_104804_Facebook.jpg
+生气地说,shēng qì de shuō,Said angrily,grammar,1,Screenshot_20260611_073104_Facebook.jpg
+生生世世,shēng shēng shì shì,forever and ever,,1,Screenshot_20260604_225250_Facebook.jpg
+田,tián,field,characters,1,Screenshot_20260612_131553_Facebook.jpg
+电影,diàn yǐng,movie,electronics,1,Screenshot_20260602_201550_Facebook.jpg
+电梯,diàn tī,elevator,electronics,1,Screenshot_20260602_201550_Facebook.jpg
+电池,diàn chí,battery,electronics,1,Screenshot_20260602_201550_Facebook.jpg
+电脑,diàn nǎo,computer,electronics,1,Screenshot_20260602_201550_Facebook.jpg
+电视,diàn shì,television,electronics,1,Screenshot_20260602_201550_Facebook.jpg
+电话,diàn huà,phone,electronics,1,Screenshot_20260602_201550_Facebook.jpg
+男,nán,male,characters,1,Screenshot_20260612_131553_Facebook.jpg
+病,bìng,illness,characters,1,Screenshot_20260612_131553_Facebook.jpg
+白,bái,white,characters,1,Screenshot_20260612_131553_Facebook.jpg
+百,bǎi,hundred,characters,1,Screenshot_20260612_131553_Facebook.jpg
+目,mù,eye,characters,1,Screenshot_20260612_131553_Facebook.jpg
+相信我。,Xiāng xìn wǒ.,Believe me.,phrases,1,Screenshot_20260610_074833_Facebook.jpg
+相信自己。,xiāng xìn zì jǐ.,Believe in yourself.,phrases,1,Screenshot_20260604_231218_Facebook.jpg
+看一看,kàn yī kàn,Take a look,verbs,1,Screenshot_20260612_192654_Facebook.jpg
+看看,kàn kàn,take a look,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+看看我,kàn kān wǒ,Look at me,phrases,1,Screenshot_20260531_230907_Facebook.jpg
+真的,zhēn de,Really,phrases,1,Screenshot_20260603_112231_Facebook.jpg
+眼睛,yǎn jīng,eye,body,1,Screenshot_20260612_141000_Facebook.jpg
+睡得好,shuì de hǎo,Slept well,grammar,1,Screenshot_20260611_073104_Facebook.jpg
+石,shí,stone,characters,1,Screenshot_20260612_131553_Facebook.jpg
+稍等一下,shāo děng yī xià,One moment please,greetings,1,Screenshot_20260602_214809_Facebook.jpg
+穿,chuān,to wear,HSK1,1,Screenshot_20260610_160459_Facebook.jpg
+穿上,chuān shàng,put on (clothes),verbs,1,Screenshot_20260602_145305_Facebook.jpg
+突然,tūrán,suddenly,,1,Screenshot_20260611_014835_Facebook.jpg
+站,zhàn,to stand,HSK1,1,Screenshot_20260610_160459_Facebook.jpg
+竟然,jìngrán,unexpectedly,,1,Screenshot_20260611_014835_Facebook.jpg
+第二课,Dì èr kè,Lesson 2,,1,Screenshot_20260608_222351_Facebook.jpg
+等等我,děng děng wǒ,Wait for me,phrases,1,Screenshot_20260531_230907_Facebook.jpg
+筷子,kuài zi,chopsticks,food,1,Screenshot_20260531_225413_Facebook.jpg
+米,mǐ,rice (grain),characters,1,Screenshot_20260612_131553_Facebook.jpg
+米饭,mǐ fàn,rice (cooked),HSK1,1,Screenshot_20260608_221617_Facebook.jpg
+类似,lèi sì,similar,adverbs,1,Screenshot_20260601_091321_Facebook.jpg
+红,hóng,red,characters,1,Screenshot_20260612_131553_Facebook.jpg
+绿,lǜ,green,characters,1,Screenshot_20260612_131553_Facebook.jpg
+罕见,hǎn jiàn,rarely,adverbs,1,Screenshot_20260602_150620_Facebook.jpg
+羊,yáng,Sheep,zodiac,1,Screenshot_20260612_141930_Facebook.jpg
+老友,lǎoyǒu,Old friend,HSK1,1,Screenshot_20260611_204859_Facebook.jpg
+老哥,lǎogē,Big brother,HSK1,1,Screenshot_20260611_204859_Facebook.jpg
+老大,lǎodà,Big boss / Leader,HSK1,1,Screenshot_20260611_204859_Facebook.jpg
+老家,lǎojiā,Home town,HSK1,1,Screenshot_20260610_073213_Facebook.jpg
+老年,lǎonáin,Old age,HSK1,1,Screenshot_20260611_204859_Facebook.jpg
+老样子,lǎoyàngzi,The same as past,HSK1,1,Screenshot_20260611_204859_Facebook.jpg
+老虎,lǎo hǔ,tiger,vocabulary,1,Screenshot_20260612_141948_Facebook.jpg
+老鹰,lǎo yīng,eagle,vocabulary,1,Screenshot_20260612_141948_Facebook.jpg
+老鼠,lǎo shǔ,mouse,vocabulary,1,Screenshot_20260612_141948_Facebook.jpg
+耳,ěr,ear,characters,1,Screenshot_20260612_131553_Facebook.jpg
+耳朵,ěr duǒ,ear,body,1,Screenshot_20260612_141000_Facebook.jpg
+肯定,kěn dìng,certain,,1,Screenshot_20260604_220416_Facebook.jpg
+能,néng,can / able,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+能，我能说中文,"néng, wǒ néng shuō zhōng wén","Yes, I can speak Chinese",phrases,1,Screenshot_20260603_113052_Facebook.jpg
+脑子,nǎo zi,brain,body,1,Screenshot_20260602_214703_Facebook.jpg
+脱下,tuō xià,take off (clothes),verbs,1,Screenshot_20260602_145318_Facebook.jpg
+脸,liǎn,face,body,1,Screenshot_20260612_141000_Facebook.jpg
+自行车,zì xíng chē,bicycle,transportation,1,Screenshot_20260531_225521_Facebook.jpg
+臭,chòu,smelly,,1,Screenshot_20260604_220835_Facebook.jpg
+芒果,máng guǒ,mango,food,1,Screenshot_20260602_145407_Facebook.jpg
+花,huā,flower,characters,1,Screenshot_20260612_131553_Facebook.jpg
+苦,kǔ,bitter,food,1,Screenshot_20260604_220835_Facebook.jpg
+苦瓜,kǔ guā,bitter melon,food,1,Screenshot_20260602_214703_Facebook.jpg
+茶几,chá jī,Coffee Table,furniture,1,Screenshot_20260612_192048_Facebook.jpg
+草莓,cǎo méi,strawberry,food,1,Screenshot_20260611_013209_Facebook.jpg
+蓝,lán,blue,characters,1,Screenshot_20260612_131553_Facebook.jpg
+虎,hǔ,Tiger,zodiac,1,Screenshot_20260612_141930_Facebook.jpg
+虫,chóng,insect,characters,1,Screenshot_20260612_131553_Facebook.jpg
+蚁,yǐ,ant,,1,Screenshot_20260611_013053_Facebook.jpg
+蛇,shé,Snake,zodiac,1,Screenshot_20260612_141930_Facebook.jpg
+蜜蜂,mìfēng,honey,,1,Screenshot_20260604_220802_Facebook.jpg
+行,xíng,go,characters,1,Screenshot_20260612_131553_Facebook.jpg
+衣柜,yī guì,Wardrobe,furniture,1,Screenshot_20260612_192048_Facebook.jpg
+西瓜,xī guā,watermelon,food,1,Screenshot_20260611_013209_Facebook.jpg
+要,yāo,To demand / To require,HSK1,1,Screenshot_20260610_135305_Facebook.jpg
+认真地听,rèn zhēn de tīng,Listen carefully,grammar,1,Screenshot_20260611_073104_Facebook.jpg
+让我想想。,Ràng wǒ xiǎng xiang.,Let me see.,phrases,1,Screenshot_20260610_074830_Facebook.jpg
+让我考虑一下,ràng wǒ kǎo lǜ yī xià,let me think about it,phrases,1,Screenshot_20260531_230801_Facebook.jpg
+讲讲,jiǎngjiǎng,tell,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+诊所,zhěn suǒ,clinic,,1,Screenshot_20260604_221653_Facebook.jpg
+试试,shì shì,try,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+试试看。,Shì shì kàn.,Give it a shot.,phrases,1,Screenshot_20260610_074811_Facebook.jpg
+误,wù,mistake,,1,Screenshot_20260611_013056_Facebook.jpg
+说得慢,shuō de màn,Said slowly,grammar,1,Screenshot_20260611_073104_Facebook.jpg
+说说,shuōshuō,talk about,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+读,dú,To read,HSK1,1,Screenshot_20260610_135305_Facebook.jpg
+读读,dú dú,read,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+谁的,shuí de,whose,question words,1,Screenshot_20260531_223825_Facebook.jpg
+谢谢你,xiè xie nǐ,Thank you,greetings,1,Screenshot_20260602_214809_Facebook.jpg
+豆,dòu,bean,characters,1,Screenshot_20260612_131553_Facebook.jpg
+贵,guì,expensive,,1,Screenshot_20260604_220732_Facebook.jpg
+走,zǒu,to walk,HSK1,1,Screenshot_20260610_160459_Facebook.jpg
+走走,zǒu zǒu,walk,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+起,qǐ,up / rise,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+起床,qǐ chuáng,to get up,HSK1,1,Screenshot_20260610_160459_Facebook.jpg
+超市,chāo shì,supermarket,,1,Screenshot_20260604_221653_Facebook.jpg
+跑,pǎo,to run,HSK1,1,Screenshot_20260610_160459_Facebook.jpg
+跑得快,pǎo de kuài,Ran quickly,grammar,1,Screenshot_20260611_073104_Facebook.jpg
+跑跑,pǎo pǎo,run,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+身后,shēn hòu,behind,,1,Screenshot_20260610_150142_Facebook.jpg
+车,chē,vehicle,characters,1,Screenshot_20260612_131553_Facebook.jpg
+车厢,chē xiāng,carriage,,1,Screenshot_20260604_220416_Facebook.jpg
+轮船,lún chuán,steamship,transportation,1,Screenshot_20260531_225544_Facebook.jpg
+辣,là,spicy,food,1,Screenshot_20260604_220835_Facebook.jpg
+还有土豆,hái yǒu tǔ dòu,And potatoes,food,1,Screenshot_20260602_214317_Facebook.jpg
+这,zhè,this,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+这个怎么说？,Zhège zěnme shuō?,What is this called?,phrases,1,Screenshot_20260531_225512_Facebook.jpg
+这个我不要,zhè ge wǒ bù yào,I don't want this,phrases,1,Screenshot_20260531_230801_Facebook.jpg
+这是,zhè shì,This is,phrases,1,Screenshot_20260602_214703_Facebook.jpg
+这边请,zhè biān qǐng,This way please,phrases,1,Screenshot_20260608_221707_Facebook.jpg
+进来,jìn lái,come in,verbs,1,Screenshot_20260602_145300_Facebook.jpg
+這個貴，但是好,"Zhège guì, dànshì hǎo.","This is expensive, but good.",grammar,1,Screenshot_20260531_223608_Facebook.jpg
+那,nà,that,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+那个,nà gè,that,grammar,1,Screenshot_20260612_162132_Facebook.jpg
+那些,nà xiē,those,,1,Screenshot_20260604_220552_Facebook.jpg
+那你早点休息吧。,Nà nǐ zǎodiǎn xiūxi ba.,Then you should rest early.,phrases,1,Screenshot_20260608_223550_Facebook.jpg
+都,dōu,all,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+酒店,jiǔ diàn,hotel,,1,Screenshot_20260604_221653_Facebook.jpg
+酱油,jiàng yóu,soy sauce,food,1,Screenshot_20260531_224739_Facebook.jpg
+酸,suān,sour,food,1,Screenshot_20260604_220835_Facebook.jpg
+醋,cù,vinegar,food,1,Screenshot_20260531_224739_Facebook.jpg
+里,lǐ,inside,HSK1,1,Screenshot_20260611_013609_Facebook.jpg
+金,jīn,metal / gold,characters,1,Screenshot_20260612_131553_Facebook.jpg
+银行卡,yín háng kǎ,bank card,banking,1,Screenshot_20260602_201455_Facebook.jpg
+闪电,shǎn diàn,lightning,electronics,1,Screenshot_20260602_201550_Facebook.jpg
+闭嘴,bì zuǐ,shut up,,1,Screenshot_20260611_014148_Facebook.jpg
+问问,wènwèn,ask,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+闻,wén,hear,characters,1,Screenshot_20260612_131553_Facebook.jpg
+闻闻,wénwén,smell,verbs,1,Screenshot_20260612_174050_Facebook.jpg
+难过,nán guò,sad,emotions,1,Screenshot_20260602_104804_Facebook.jpg
+非常,fēicháng,Very,HSK1,1,Screenshot_20260610_073213_Facebook.jpg
+非常好,fēi cháng hǎo,Very good,phrases,1,Screenshot_20260603_112231_Facebook.jpg
+面,miàn,noodle / face,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+面包,miàn bāo,bread,HSK1,1,Screenshot_20260608_221617_Facebook.jpg
+面条,miàn tiáo,noodles,HSK1,1,Screenshot_20260608_221617_Facebook.jpg
+飞,fēi,fly,HSK1,1,Screenshot_20260604_144454_Facebook.jpg
+飞机,fēi jī,airplane,transportation,1,Screenshot_20260531_225536_Facebook.jpg
+香,xiāng,fragrant,,1,Screenshot_20260604_220835_Facebook.jpg
+高低,gāo dī,height; good and bad,opposites,1,Screenshot_20260531_224502_Facebook.jpg
+高铁,gāo tiě,high-speed rail,transportation,1,Screenshot_20260531_225528_Facebook.jpg
+鸟,niǎo,bird,characters,1,Screenshot_20260612_131553_Facebook.jpg
+黄,huáng,yellow,characters,1,Screenshot_20260612_131553_Facebook.jpg
+黑,hēi,black,characters,1,Screenshot_20260612_131553_Facebook.jpg
+鼠,shǔ,Rat,zodiac,1,Screenshot_20260612_141930_Facebook.jpg
+龙,lóng,Dragon,zodiac,1,Screenshot_20260612_141930_Facebook.jpg

@@ -1,0 +1,5042 @@
+[
+  {
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "english": "up",
+    "category": "directions",
+    "frequency": 5,
+    "source_files": "Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg"
+  },
+  {
+    "hanzi": "下",
+    "pinyin": "xià",
+    "english": "down",
+    "category": "directions",
+    "frequency": 5,
+    "source_files": "Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg"
+  },
+  {
+    "hanzi": "右",
+    "pinyin": "yòu",
+    "english": "right",
+    "category": "directions",
+    "frequency": 5,
+    "source_files": "Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg"
+  },
+  {
+    "hanzi": "左",
+    "pinyin": "zuǒ",
+    "english": "left",
+    "category": "directions",
+    "frequency": 5,
+    "source_files": "Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg"
+  },
+  {
+    "hanzi": "东",
+    "pinyin": "dōng",
+    "english": "east",
+    "category": "directions",
+    "frequency": 4,
+    "source_files": "Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg"
+  },
+  {
+    "hanzi": "前",
+    "pinyin": "qián",
+    "english": "front",
+    "category": "directions",
+    "frequency": 4,
+    "source_files": "Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg"
+  },
+  {
+    "hanzi": "后",
+    "pinyin": "hòu",
+    "english": "back",
+    "category": "directions",
+    "frequency": 4,
+    "source_files": "Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg"
+  },
+  {
+    "hanzi": "我去",
+    "pinyin": "wǒ qù",
+    "english": "I go",
+    "category": "verbs",
+    "frequency": 4,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg;Screenshot_20260610_150142_Facebook.jpg"
+  },
+  {
+    "hanzi": "西",
+    "pinyin": "xī",
+    "english": "west",
+    "category": "directions",
+    "frequency": 4,
+    "source_files": "Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_013609_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg"
+  },
+  {
+    "hanzi": "一天",
+    "pinyin": "yī tiān",
+    "english": "1 day",
+    "category": "time",
+    "frequency": 3,
+    "source_files": "Screenshot_20260604_220406_Facebook.jpg;Screenshot_20260604_220408_Facebook.jpg;Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "english": "To buy",
+    "category": "HSK1",
+    "frequency": 3,
+    "source_files": "Screenshot_20260531_224435_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg;Screenshot_20260610_160459_Facebook.jpg"
+  },
+  {
+    "hanzi": "从不",
+    "pinyin": "cóng bù",
+    "english": "never",
+    "category": "adverbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260606_164202_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg"
+  },
+  {
+    "hanzi": "偶尔",
+    "pinyin": "ǒu ěr",
+    "english": "occasionally",
+    "category": "adverbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260606_164151_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg"
+  },
+  {
+    "hanzi": "北",
+    "pinyin": "běi",
+    "english": "north",
+    "category": "directions",
+    "frequency": 3,
+    "source_files": "Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg"
+  },
+  {
+    "hanzi": "南",
+    "pinyin": "nán",
+    "english": "south",
+    "category": "directions",
+    "frequency": 3,
+    "source_files": "Screenshot_20260531_225721_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_132436_Facebook.jpg"
+  },
+  {
+    "hanzi": "和",
+    "pinyin": "hé",
+    "english": "and",
+    "category": "conjunctions",
+    "frequency": 3,
+    "source_files": "Screenshot_20260603_085049_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_162132_Facebook.jpg"
+  },
+  {
+    "hanzi": "国",
+    "pinyin": "guó",
+    "english": "country",
+    "category": "HSK1",
+    "frequency": 3,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_073213_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "地",
+    "pinyin": "dì",
+    "english": "Adverbial particle (地 + Verb)",
+    "category": "characters",
+    "frequency": 3,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_073104_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "多少钱",
+    "pinyin": "duō shǎo qián",
+    "english": "How much?",
+    "category": "shopping",
+    "frequency": 3,
+    "source_files": "Screenshot_20260602_101352_Facebook.jpg;Screenshot_20260606_152937_Facebook.jpg;Screenshot_20260606_152944_Facebook.jpg"
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "english": "home",
+    "category": "HSK1",
+    "frequency": 3,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_073213_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "当然",
+    "pinyin": "dāng rán",
+    "english": "Of course!",
+    "category": "phrases",
+    "frequency": 3,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg;Screenshot_20260611_014835_Facebook.jpg"
+  },
+  {
+    "hanzi": "怎么了",
+    "pinyin": "zěn me le",
+    "english": "What's up?",
+    "category": "phrases",
+    "frequency": 3,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg;Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "总是",
+    "pinyin": "zǒng shì",
+    "english": "always",
+    "category": "adverbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260606_164218_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不知道",
+    "pinyin": "wǒ bù zhī dào",
+    "english": "I don't know",
+    "category": "phrases",
+    "frequency": 3,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg;Screenshot_20260613_094527_Facebook.jpg"
+  },
+  {
+    "hanzi": "我买",
+    "pinyin": "wǒ mǎi",
+    "english": "I buy",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我买了",
+    "pinyin": "wǒ mǎi le",
+    "english": "I bought",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我做",
+    "pinyin": "wǒ zuò",
+    "english": "I do",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我做了",
+    "pinyin": "wǒ zuò le",
+    "english": "I did",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我去了",
+    "pinyin": "wǒ qù le",
+    "english": "I went",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我吃",
+    "pinyin": "wǒ chī",
+    "english": "I eat",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我吃了",
+    "pinyin": "wǒ chī le",
+    "english": "I ate",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我来",
+    "pinyin": "wǒ lái",
+    "english": "I come",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我来了",
+    "pinyin": "wǒ lái le",
+    "english": "I came",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我看",
+    "pinyin": "wǒ kàn",
+    "english": "I see",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我看了",
+    "pinyin": "wǒ kàn le",
+    "english": "I saw",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我要买",
+    "pinyin": "wǒ yào mǎi",
+    "english": "I'm going to buy",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我要做",
+    "pinyin": "wǒ yào zuò",
+    "english": "I'm going to do",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我要去",
+    "pinyin": "wǒ yào qù",
+    "english": "I'm going to go",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我要吃",
+    "pinyin": "wǒ yào chī",
+    "english": "I'm going to eat",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我要来",
+    "pinyin": "wǒ yào lái",
+    "english": "I'm going to come",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "我要看",
+    "pinyin": "wǒ yào kàn",
+    "english": "I'm going to see",
+    "category": "verbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260607_220046_Facebook.jpg;Screenshot_20260607_220101_Facebook.jpg;Screenshot_20260607_220114_Facebook.jpg"
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "english": "yes / to be",
+    "category": "characters",
+    "frequency": 3,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_162132_Facebook.jpg"
+  },
+  {
+    "hanzi": "有时",
+    "pinyin": "yǒu shí",
+    "english": "sometimes",
+    "category": "adverbs",
+    "frequency": 3,
+    "source_files": "Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260606_164211_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg"
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "lái",
+    "english": "come",
+    "category": "HSK1",
+    "frequency": 3,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "死",
+    "pinyin": "sǐ",
+    "english": "die",
+    "category": "characters",
+    "frequency": 3,
+    "source_files": "Screenshot_20260531_224513_Facebook.jpg;Screenshot_20260604_220732_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "english": "dish / vegetable",
+    "category": "HSK1",
+    "frequency": 3,
+    "source_files": "Screenshot_20260608_220918_Facebook.jpg;Screenshot_20260608_221617_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "english": "talk / say",
+    "category": "HSK1",
+    "frequency": 3,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "鱼",
+    "pinyin": "yú",
+    "english": "fish",
+    "category": "characters",
+    "frequency": 3,
+    "source_files": "Screenshot_20260604_220732_Facebook.jpg;Screenshot_20260608_221617_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "english": "one",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "一会儿",
+    "pinyin": "yī huì ér",
+    "english": "A moment",
+    "category": "time",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_231730_Facebook.jpg;Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "english": "three",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "english": "no / not",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "不可能",
+    "pinyin": "bù kě néng",
+    "english": "impossible",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_220416_Facebook.jpg;Screenshot_20260608_223717_Facebook.jpg"
+  },
+  {
+    "hanzi": "中",
+    "pinyin": "zhōng",
+    "english": "middle",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "english": "two",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "二十四个小时",
+    "pinyin": "èr shí sì gè xiǎo shí",
+    "english": "24 hours",
+    "category": "time",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_220406_Facebook.jpg;Screenshot_20260604_220408_Facebook.jpg"
+  },
+  {
+    "hanzi": "五十行吗",
+    "pinyin": "wǔ shí xíng ma",
+    "english": "How about 50?",
+    "category": "shopping",
+    "frequency": 2,
+    "source_files": "Screenshot_20260606_152937_Facebook.jpg;Screenshot_20260606_152944_Facebook.jpg"
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "english": "people",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "什么情况",
+    "pinyin": "shén me qíng kuàng",
+    "english": "What's going on?",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260608_223717_Facebook.jpg;Screenshot_20260610_071547_Facebook.jpg"
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "english": "he / she",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "他会听？",
+    "pinyin": "tā huì tīng?",
+    "english": "Can he listen?",
+    "category": "verbs",
+    "frequency": 2,
+    "source_files": "Screenshot_20260610_161224_Facebook.jpg"
+  },
+  {
+    "hanzi": "他会唱？",
+    "pinyin": "tā huì chàng?",
+    "english": "Can he sing?",
+    "category": "verbs",
+    "frequency": 2,
+    "source_files": "Screenshot_20260610_161224_Facebook.jpg"
+  },
+  {
+    "hanzi": "他会看？",
+    "pinyin": "tā huì kàn?",
+    "english": "Can he read?",
+    "category": "verbs",
+    "frequency": 2,
+    "source_files": "Screenshot_20260610_161224_Facebook.jpg"
+  },
+  {
+    "hanzi": "他会说？",
+    "pinyin": "tā huì shuō?",
+    "english": "Can he speak?",
+    "category": "verbs",
+    "frequency": 2,
+    "source_files": "Screenshot_20260610_161224_Facebook.jpg"
+  },
+  {
+    "hanzi": "但是",
+    "pinyin": "dàn shì",
+    "english": "but",
+    "category": "conjunctions",
+    "frequency": 2,
+    "source_files": "Screenshot_20260531_223608_Facebook.jpg;Screenshot_20260603_085044_Facebook.jpg"
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "english": "you",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "你怎么了？",
+    "pinyin": "Nǐ zěnme le?",
+    "english": "What happened to you",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260608_223550_Facebook.jpg;Screenshot_20260610_071547_Facebook.jpg"
+  },
+  {
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "english": "To write",
+    "category": "HSK1",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg"
+  },
+  {
+    "hanzi": "出",
+    "pinyin": "chū",
+    "english": "exit",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "十",
+    "pinyin": "shí",
+    "english": "ten",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "english": "to sell",
+    "category": "verbs",
+    "frequency": 2,
+    "source_files": "Screenshot_20260531_224435_Facebook.jpg;Screenshot_20260610_160459_Facebook.jpg"
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "qù",
+    "english": "To go",
+    "category": "HSK1",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg"
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "english": "To eat",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260610_135305_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "因为",
+    "pinyin": "yīn wèi",
+    "english": "because",
+    "category": "conjunctions",
+    "frequency": 2,
+    "source_files": "Screenshot_20260603_085100_Facebook.jpg;Screenshot_20260612_162132_Facebook.jpg"
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "english": "more / many",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "english": "big / great",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "大学",
+    "pinyin": "dà xué",
+    "english": "university",
+    "category": "education",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_221653_Facebook.jpg;Screenshot_20260605_073628_Facebook.jpg"
+  },
+  {
+    "hanzi": "天",
+    "pinyin": "tiān",
+    "english": "sky / day",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "太好了",
+    "pinyin": "tài hǎo le",
+    "english": "That's great!",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "太贵了",
+    "pinyin": "tài guì le",
+    "english": "That's too much",
+    "category": "shopping",
+    "frequency": 2,
+    "source_files": "Screenshot_20260606_152937_Facebook.jpg;Screenshot_20260606_152944_Facebook.jpg"
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "english": "good",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "好主意",
+    "pinyin": "hǎo zhǔ yì",
+    "english": "Good idea",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg;Screenshot_20260612_132306_Facebook.jpg"
+  },
+  {
+    "hanzi": "好久",
+    "pinyin": "hǎo jiǔ",
+    "english": "a long time",
+    "category": "time",
+    "frequency": 2,
+    "source_files": "Screenshot_20260531_224714_Facebook.jpg;Screenshot_20260531_224723_Facebook.jpg"
+  },
+  {
+    "hanzi": "好久不见",
+    "pinyin": "hǎo jiǔ bù jiàn",
+    "english": "long time no see",
+    "category": "greetings",
+    "frequency": 2,
+    "source_files": "Screenshot_20260531_224717_Facebook.jpg;Screenshot_20260531_224725_Facebook.jpg"
+  },
+  {
+    "hanzi": "如果",
+    "pinyin": "rú guǒ",
+    "english": "if",
+    "category": "conjunctions",
+    "frequency": 2,
+    "source_files": "Screenshot_20260603_085039_Facebook.jpg;Screenshot_20260611_014835_Facebook.jpg"
+  },
+  {
+    "hanzi": "子",
+    "pinyin": "zǐ",
+    "english": "son / child",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "学",
+    "pinyin": "xué",
+    "english": "learn",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "对不起",
+    "pinyin": "duì bu qǐ",
+    "english": "I'm sorry",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "english": "small",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "常常",
+    "pinyin": "cháng cháng",
+    "english": "Often",
+    "category": "adverbs",
+    "frequency": 2,
+    "source_files": "Screenshot_20260606_164205_Facebook.jpg;Screenshot_20260610_073213_Facebook.jpg"
+  },
+  {
+    "hanzi": "很少",
+    "pinyin": "hěn shǎo",
+    "english": "Seldom",
+    "category": "adverbs",
+    "frequency": 2,
+    "source_files": "Screenshot_20260606_164158_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg"
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "english": "I",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "我冷",
+    "pinyin": "wǒ lěng",
+    "english": "I'm cold",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "我同意",
+    "pinyin": "wǒ tóng yì",
+    "english": "I agree",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg;Screenshot_20260612_132306_Facebook.jpg"
+  },
+  {
+    "hanzi": "我渴了",
+    "pinyin": "wǒ kě le",
+    "english": "I'm thirsty",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "我热",
+    "pinyin": "wǒ rè",
+    "english": "I'm hot",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "我爱你",
+    "pinyin": "wǒ ài nǐ",
+    "english": "I love you",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "我累了",
+    "pinyin": "wǒ lèi le",
+    "english": "I'm tired",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "我认为她是好老师",
+    "pinyin": "wǒ rèn wéi tā shì hǎo lǎo shī",
+    "english": "I think she is a good teacher",
+    "category": "",
+    "frequency": 2,
+    "source_files": "Screenshot_20260610_234609_Facebook.jpg;Screenshot_20260610_234611_Facebook.jpg"
+  },
+  {
+    "hanzi": "我饿了",
+    "pinyin": "wǒ è le",
+    "english": "I'm hungry",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "所以",
+    "pinyin": "suǒ yǐ",
+    "english": "so / therefore",
+    "category": "conjunctions",
+    "frequency": 2,
+    "source_files": "Screenshot_20260603_085032_Facebook.jpg;Screenshot_20260612_162132_Facebook.jpg"
+  },
+  {
+    "hanzi": "手",
+    "pinyin": "shǒu",
+    "english": "hand",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141000_Facebook.jpg"
+  },
+  {
+    "hanzi": "打折吗",
+    "pinyin": "dǎ zhé ma",
+    "english": "Any discount?",
+    "category": "shopping",
+    "frequency": 2,
+    "source_files": "Screenshot_20260606_152937_Facebook.jpg;Screenshot_20260606_152944_Facebook.jpg"
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "english": "have",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "english": "water",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260608_220918_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "没事",
+    "pinyin": "méi shì",
+    "english": "It's fine",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "没关系",
+    "pinyin": "méi guān xi",
+    "english": "It doesn't matter",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "没问题",
+    "pinyin": "méi wèn tí",
+    "english": "No problem",
+    "category": "greetings",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_214809_Facebook.jpg;Screenshot_20260612_132306_Facebook.jpg"
+  },
+  {
+    "hanzi": "牛",
+    "pinyin": "niú",
+    "english": "cow",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "english": "dog",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "猪",
+    "pinyin": "zhū",
+    "english": "pig",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "生",
+    "pinyin": "shēng",
+    "english": "born / life",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "de",
+    "english": "Possessive particle (的 + Noun)",
+    "category": "grammar",
+    "frequency": 2,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg;Screenshot_20260612_162132_Facebook.jpg"
+  },
+  {
+    "hanzi": "盐",
+    "pinyin": "yán",
+    "english": "salt",
+    "category": "food",
+    "frequency": 2,
+    "source_files": "Screenshot_20260531_224739_Facebook.jpg;Screenshot_20260608_220918_Facebook.jpg"
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "english": "To look / To read",
+    "category": "HSK1",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_135305_Facebook.jpg"
+  },
+  {
+    "hanzi": "睡",
+    "pinyin": "shuì",
+    "english": "to sleep",
+    "category": "HSK1",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260610_160459_Facebook.jpg"
+  },
+  {
+    "hanzi": "票",
+    "pinyin": "piào",
+    "english": "ticket",
+    "category": "HSK1",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_220416_Facebook.jpg;Screenshot_20260610_073213_Facebook.jpg"
+  },
+  {
+    "hanzi": "等一下",
+    "pinyin": "děng yī xià",
+    "english": "wait a minute",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260531_230801_Facebook.jpg;Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "糖",
+    "pinyin": "táng",
+    "english": "sugar",
+    "category": "food",
+    "frequency": 2,
+    "source_files": "Screenshot_20260531_224739_Facebook.jpg;Screenshot_20260608_220918_Facebook.jpg"
+  },
+  {
+    "hanzi": "经常",
+    "pinyin": "jīng cháng",
+    "english": "usually",
+    "category": "adverbs",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260608_220422_Facebook.jpg"
+  },
+  {
+    "hanzi": "老",
+    "pinyin": "lǎo",
+    "english": "Old / Prefix",
+    "category": "HSK1",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260611_204859_Facebook.jpg"
+  },
+  {
+    "hanzi": "老人",
+    "pinyin": "lǎo rén",
+    "english": "Old person",
+    "category": "vocabulary",
+    "frequency": 2,
+    "source_files": "Screenshot_20260611_204859_Facebook.jpg;Screenshot_20260612_141948_Facebook.jpg"
+  },
+  {
+    "hanzi": "老公",
+    "pinyin": "lǎo gōng",
+    "english": "Husband",
+    "category": "vocabulary",
+    "frequency": 2,
+    "source_files": "Screenshot_20260611_204859_Facebook.jpg;Screenshot_20260612_141948_Facebook.jpg"
+  },
+  {
+    "hanzi": "老婆",
+    "pinyin": "lǎo pó",
+    "english": "Wife",
+    "category": "vocabulary",
+    "frequency": 2,
+    "source_files": "Screenshot_20260611_204859_Facebook.jpg;Screenshot_20260612_141948_Facebook.jpg"
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎo shī",
+    "english": "Teacher",
+    "category": "vocabulary",
+    "frequency": 2,
+    "source_files": "Screenshot_20260611_204859_Facebook.jpg;Screenshot_20260612_141948_Facebook.jpg"
+  },
+  {
+    "hanzi": "老板",
+    "pinyin": "lǎo bǎn",
+    "english": "Boss",
+    "category": "vocabulary",
+    "frequency": 2,
+    "source_files": "Screenshot_20260611_204859_Facebook.jpg;Screenshot_20260612_141948_Facebook.jpg"
+  },
+  {
+    "hanzi": "肉",
+    "pinyin": "ròu",
+    "english": "meat",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260608_221617_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "脚",
+    "pinyin": "jiǎo",
+    "english": "foot",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141000_Facebook.jpg"
+  },
+  {
+    "hanzi": "苹果",
+    "pinyin": "píng guǒ",
+    "english": "apple",
+    "category": "HSK1",
+    "frequency": 2,
+    "source_files": "Screenshot_20260608_221617_Facebook.jpg;Screenshot_20260611_013209_Facebook.jpg"
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "english": "tea",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260608_220918_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "葡萄",
+    "pinyin": "pú táo",
+    "english": "grape",
+    "category": "food",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_145410_Facebook.jpg;Screenshot_20260611_013209_Facebook.jpg"
+  },
+  {
+    "hanzi": "蘑菇",
+    "pinyin": "Mó gū",
+    "english": "mushroom",
+    "category": "food",
+    "frequency": 2,
+    "source_files": "Screenshot_20260531_223353_Facebook.jpg;Screenshot_20260531_223416_Facebook.jpg"
+  },
+  {
+    "hanzi": "衣",
+    "pinyin": "yī",
+    "english": "clothes",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260611_013044_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "见",
+    "pinyin": "jiàn",
+    "english": "look",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "走吧",
+    "pinyin": "zǒu ba",
+    "english": "Let's go!",
+    "category": "phrases",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_200345_Facebook.jpg;Screenshot_20260602_200354_Facebook.jpg"
+  },
+  {
+    "hanzi": "通常",
+    "pinyin": "tōng cháng",
+    "english": "usually",
+    "category": "adverbs",
+    "frequency": 2,
+    "source_files": "Screenshot_20260602_150620_Facebook.jpg;Screenshot_20260606_164154_Facebook.jpg"
+  },
+  {
+    "hanzi": "雨",
+    "pinyin": "yǔ",
+    "english": "rain",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "english": "rice (cooked)",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260608_220918_Facebook.jpg;Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "香蕉",
+    "pinyin": "xiāng jiāo",
+    "english": "banana",
+    "category": "HSK1",
+    "frequency": 2,
+    "source_files": "Screenshot_20260608_221617_Facebook.jpg;Screenshot_20260611_013209_Facebook.jpg"
+  },
+  {
+    "hanzi": "马",
+    "pinyin": "mǎ",
+    "english": "horse",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "高",
+    "pinyin": "gāo",
+    "english": "high",
+    "category": "opposites",
+    "frequency": 2,
+    "source_files": "Screenshot_20260531_224502_Facebook.jpg;Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "鸡",
+    "pinyin": "jī",
+    "english": "chicken",
+    "category": "characters",
+    "frequency": 2,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg;Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "鸡蛋",
+    "pinyin": "jī dàn",
+    "english": "egg",
+    "category": "food",
+    "frequency": 2,
+    "source_files": "Screenshot_20260531_223421_Facebook.jpg;Screenshot_20260608_221617_Facebook.jpg"
+  },
+  {
+    "hanzi": "一下",
+    "pinyin": "yīxià",
+    "english": "Once, a little",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "一个小时",
+    "pinyin": "yī gè xiǎo shí",
+    "english": "1 hour",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220403_Facebook.jpg"
+  },
+  {
+    "hanzi": "一二三四五六七",
+    "pinyin": "yī èr sān sì wǔ liù qī",
+    "english": "One two three four five six seven",
+    "category": "numbers",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_210718_Facebook.jpg"
+  },
+  {
+    "hanzi": "一些",
+    "pinyin": "yīxiē",
+    "english": "Some, a few",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "一共",
+    "pinyin": "yīgòng",
+    "english": "Altogether, in total",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "一分钟",
+    "pinyin": "yī fēn zhōng",
+    "english": "1 minute",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220400_Facebook.jpg"
+  },
+  {
+    "hanzi": "一半",
+    "pinyin": "yībàn",
+    "english": "Half",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "一块",
+    "pinyin": "yīkuài",
+    "english": "One piece",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "一定",
+    "pinyin": "yīdìng",
+    "english": "Certainly, surely",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "一样",
+    "pinyin": "yīyàng",
+    "english": "Same as",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "一次",
+    "pinyin": "yīcì",
+    "english": "One time",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "一点儿",
+    "pinyin": "yīdiǎnr",
+    "english": "A little bit",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "一般",
+    "pinyin": "yī bān",
+    "english": "Normally",
+    "category": "adverbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260606_164215_Facebook.jpg"
+  },
+  {
+    "hanzi": "一起",
+    "pinyin": "yīqǐ",
+    "english": "Together",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094700_Facebook.jpg"
+  },
+  {
+    "hanzi": "七",
+    "pinyin": "qī",
+    "english": "seven",
+    "category": "numbers",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "三十",
+    "pinyin": "sān shí",
+    "english": "thirty",
+    "category": "numbers",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_101352_Facebook.jpg"
+  },
+  {
+    "hanzi": "上学",
+    "pinyin": "shàng xué",
+    "english": "go to school",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201451_Facebook.jpg"
+  },
+  {
+    "hanzi": "上楼",
+    "pinyin": "shàng lóu",
+    "english": "going upstairs",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201451_Facebook.jpg"
+  },
+  {
+    "hanzi": "上班",
+    "pinyin": "shàng bān",
+    "english": "go to work",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201451_Facebook.jpg"
+  },
+  {
+    "hanzi": "上课",
+    "pinyin": "shàng kè",
+    "english": "go to class",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201451_Facebook.jpg"
+  },
+  {
+    "hanzi": "不好意思",
+    "pinyin": "bù hǎo yì si",
+    "english": "Sorry / Excuse me",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214809_Facebook.jpg"
+  },
+  {
+    "hanzi": "不常",
+    "pinyin": "bù cháng",
+    "english": "not often",
+    "category": "adverbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_150620_Facebook.jpg"
+  },
+  {
+    "hanzi": "不时",
+    "pinyin": "bù shí",
+    "english": "now and then",
+    "category": "adverbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_150620_Facebook.jpg"
+  },
+  {
+    "hanzi": "不知深浅",
+    "pinyin": "bù zhī shēn qiǎn",
+    "english": "have no sense of propriety",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224511_Facebook.jpg"
+  },
+  {
+    "hanzi": "不见",
+    "pinyin": "bù jiàn",
+    "english": "not seen",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224723_Facebook.jpg"
+  },
+  {
+    "hanzi": "为了",
+    "pinyin": "wéi le",
+    "english": "for",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_162132_Facebook.jpg"
+  },
+  {
+    "hanzi": "主",
+    "pinyin": "zhǔ",
+    "english": "master",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "主任",
+    "pinyin": "zhǔ rèn",
+    "english": "doctor (department head)",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_150142_Facebook.jpg"
+  },
+  {
+    "hanzi": "义",
+    "pinyin": "yì",
+    "english": "righteousness",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013056_Facebook.jpg"
+  },
+  {
+    "hanzi": "乌",
+    "pinyin": "wū",
+    "english": "crow",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013044_Facebook.jpg"
+  },
+  {
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "english": "nine",
+    "category": "numbers",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "书店",
+    "pinyin": "shū diàn",
+    "english": "bookshop",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_221653_Facebook.jpg"
+  },
+  {
+    "hanzi": "书架",
+    "pinyin": "shū jià",
+    "english": "Bookshelf",
+    "category": "furniture",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192048_Facebook.jpg"
+  },
+  {
+    "hanzi": "买卖",
+    "pinyin": "mǎi mai",
+    "english": "business",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224435_Facebook.jpg"
+  },
+  {
+    "hanzi": "二百五",
+    "pinyin": "èr bǎi wǔ",
+    "english": "250 / stupid person",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_150142_Facebook.jpg"
+  },
+  {
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "english": "five",
+    "category": "numbers",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "english": "some",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "什么",
+    "pinyin": "shén me",
+    "english": "what",
+    "category": "question words",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223825_Facebook.jpg"
+  },
+  {
+    "hanzi": "什么时候",
+    "pinyin": "shén me shí hòu",
+    "english": "when",
+    "category": "question words",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223825_Facebook.jpg"
+  },
+  {
+    "hanzi": "以后",
+    "pinyin": "yǐ hòu",
+    "english": "after / later",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_231730_Facebook.jpg"
+  },
+  {
+    "hanzi": "似乎",
+    "pinyin": "sì hū",
+    "english": "seem",
+    "category": "adverbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260601_091321_Facebook.jpg"
+  },
+  {
+    "hanzi": "低",
+    "pinyin": "dī",
+    "english": "low",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224502_Facebook.jpg"
+  },
+  {
+    "hanzi": "余额",
+    "pinyin": "yú é",
+    "english": "balance",
+    "category": "banking",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201455_Facebook.jpg"
+  },
+  {
+    "hanzi": "你为什么累？",
+    "pinyin": "Nǐ wèishénme lèi?",
+    "english": "Why are you tired?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_223550_Facebook.jpg"
+  },
+  {
+    "hanzi": "你什么意思？",
+    "pinyin": "nǐ shénme yì sī",
+    "english": "What do you mean?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_130455_Facebook.jpg"
+  },
+  {
+    "hanzi": "你会说中文吗？",
+    "pinyin": "nǐ huì shuō zhōng wén ma",
+    "english": "Do you speak Chinese?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_071257_Facebook.jpg"
+  },
+  {
+    "hanzi": "你呢",
+    "pinyin": "nǐ ne",
+    "english": "How about you?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "你喜欢什么？",
+    "pinyin": "nǐ xǐ huān shénme",
+    "english": "What do you like?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_130455_Facebook.jpg"
+  },
+  {
+    "hanzi": "你喜欢吃什么水果",
+    "pinyin": "Nǐ xǐ huān chī shén me shuǐ guǒ",
+    "english": "What fruit do you like to eat?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_145402_Facebook.jpg"
+  },
+  {
+    "hanzi": "你喜欢吃苹果吗？",
+    "pinyin": "nǐ xǐhuan chī píngguǒ ma",
+    "english": "Do you like eating apples?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_071810_Facebook.jpg"
+  },
+  {
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "english": "Hello",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220416_Facebook.jpg"
+  },
+  {
+    "hanzi": "你想吃，但是不餓嗎？",
+    "pinyin": "Nǐ xiǎng chī, dànshì bú è ma?",
+    "english": "You want to eat, but aren't hungry?",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223608_Facebook.jpg"
+  },
+  {
+    "hanzi": "你想要什么？",
+    "pinyin": "nǐ xiǎng yào shénme",
+    "english": "What do you want?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_130455_Facebook.jpg"
+  },
+  {
+    "hanzi": "你是我最好的朋友。",
+    "pinyin": "nǐ shì wǒ zuì hǎo de péng yǒu",
+    "english": "You are my best friend.",
+    "category": "family",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_231211_Facebook.jpg"
+  },
+  {
+    "hanzi": "你每天吃苹果吗？",
+    "pinyin": "nǐ měitiān chī píngguǒ ma",
+    "english": "Do you eat apples every day?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_071810_Facebook.jpg"
+  },
+  {
+    "hanzi": "你没事吧",
+    "pinyin": "nǐ méi shì ba",
+    "english": "Are you okay",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_071547_Facebook.jpg"
+  },
+  {
+    "hanzi": "你的中文说得很好。",
+    "pinyin": "nǐ de zhōng wén shuō de hěn hǎo",
+    "english": "You speak Chinese very well.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_071257_Facebook.jpg"
+  },
+  {
+    "hanzi": "你确定吗",
+    "pinyin": "nǐ què dìng ma",
+    "english": "Are you sure?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "你能教我中文吗",
+    "pinyin": "nǐ néng jiāo wǒ zhōngwén ma",
+    "english": "Can you teach me Chinese?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_132545_Facebook.jpg"
+  },
+  {
+    "hanzi": "你能用中文和我聊天吗？",
+    "pinyin": "nǐ néng yòng zhōng wén hé wǒ liáo tiān ma",
+    "english": "Can you chat with me in Chinese?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_113045_Facebook.jpg"
+  },
+  {
+    "hanzi": "你能说慢一点吗",
+    "pinyin": "nǐ néng shuō màn yīdiǎn ma",
+    "english": "Can you speak more slowly?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_132545_Facebook.jpg"
+  },
+  {
+    "hanzi": "你要多少啊",
+    "pinyin": "nǐ yào duō shǎo a",
+    "english": "How much do you want?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214320_Facebook.jpg"
+  },
+  {
+    "hanzi": "你认为呢？",
+    "pinyin": "nǐ rèn wèi ne",
+    "english": "What do you think?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_130455_Facebook.jpg"
+  },
+  {
+    "hanzi": "你讲/你说",
+    "pinyin": "nǐ jiǎng / nǐ shuō",
+    "english": "You say",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_071645_Facebook.jpg"
+  },
+  {
+    "hanzi": "你说什么？",
+    "pinyin": "nǐ shuō shénme",
+    "english": "What do you say?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_130455_Facebook.jpg"
+  },
+  {
+    "hanzi": "便宜",
+    "pinyin": "pián yí",
+    "english": "cheap",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220732_Facebook.jpg"
+  },
+  {
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "english": "To do",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_135305_Facebook.jpg"
+  },
+  {
+    "hanzi": "充电",
+    "pinyin": "chōng diàn",
+    "english": "charge (battery)",
+    "category": "electronics",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201550_Facebook.jpg"
+  },
+  {
+    "hanzi": "先到先得",
+    "pinyin": "xiān dào xiān dé",
+    "english": "first come first served",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_223832_Facebook.jpg"
+  },
+  {
+    "hanzi": "兔",
+    "pinyin": "tù",
+    "english": "Rabbit",
+    "category": "zodiac",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "入",
+    "pinyin": "rù",
+    "english": "enter",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "bā",
+    "english": "eight",
+    "category": "numbers",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "liù",
+    "english": "six",
+    "category": "numbers",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "六十分钟",
+    "pinyin": "liù shí fēn zhōng",
+    "english": "60 minutes",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220403_Facebook.jpg"
+  },
+  {
+    "hanzi": "六十秒",
+    "pinyin": "liù shí miǎo",
+    "english": "60 seconds",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220400_Facebook.jpg"
+  },
+  {
+    "hanzi": "兴奋",
+    "pinyin": "xīng fèn",
+    "english": "excited",
+    "category": "emotions",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_104804_Facebook.jpg"
+  },
+  {
+    "hanzi": "几乎",
+    "pinyin": "jī hū",
+    "english": "almost",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_140936_Facebook.jpg"
+  },
+  {
+    "hanzi": "出去",
+    "pinyin": "chū qù",
+    "english": "go out",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_145303_Facebook.jpg"
+  },
+  {
+    "hanzi": "出名",
+    "pinyin": "chū míng",
+    "english": "famous",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260601_115620_Facebook.jpg"
+  },
+  {
+    "hanzi": "出国",
+    "pinyin": "chū guó",
+    "english": "go abroad",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260601_115620_Facebook.jpg"
+  },
+  {
+    "hanzi": "出现",
+    "pinyin": "chū xiàn",
+    "english": "appear",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260601_115620_Facebook.jpg"
+  },
+  {
+    "hanzi": "出门",
+    "pinyin": "chū mén",
+    "english": "go out (through the door)",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260601_115620_Facebook.jpg"
+  },
+  {
+    "hanzi": "分出高低",
+    "pinyin": "fēn chū gāo dī",
+    "english": "determine superiority",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224505_Facebook.jpg"
+  },
+  {
+    "hanzi": "刚刚",
+    "pinyin": "gāng gāng",
+    "english": "just now",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_140936_Facebook.jpg"
+  },
+  {
+    "hanzi": "别",
+    "pinyin": "bié",
+    "english": "don't",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224657_Facebook.jpg"
+  },
+  {
+    "hanzi": "别吵了",
+    "pinyin": "bié chǎo le",
+    "english": "keep quiet",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014144_Facebook.jpg"
+  },
+  {
+    "hanzi": "别担心",
+    "pinyin": "bié dān xīn",
+    "english": "Don't worry",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221707_Facebook.jpg"
+  },
+  {
+    "hanzi": "别碰我",
+    "pinyin": "bié pèng wǒ",
+    "english": "don't touch me",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224657_Facebook.jpg"
+  },
+  {
+    "hanzi": "别说了。",
+    "pinyin": "Bié shuō le.",
+    "english": "Shut up.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_074819_Facebook.jpg"
+  },
+  {
+    "hanzi": "剪发",
+    "pinyin": "jiǎn fà",
+    "english": "haircut",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_101352_Facebook.jpg"
+  },
+  {
+    "hanzi": "剪发多少钱",
+    "pinyin": "jiǎn fà duō shǎo qián",
+    "english": "How much for a haircut?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_101352_Facebook.jpg"
+  },
+  {
+    "hanzi": "力",
+    "pinyin": "lì",
+    "english": "strength",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "加油",
+    "pinyin": "jiā yóu",
+    "english": "Keep going",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_132306_Facebook.jpg"
+  },
+  {
+    "hanzi": "医院",
+    "pinyin": "yī yuàn",
+    "english": "hospital",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_221653_Facebook.jpg"
+  },
+  {
+    "hanzi": "十五",
+    "pinyin": "shí wǔ",
+    "english": "fifteen",
+    "category": "numbers",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_101352_Facebook.jpg"
+  },
+  {
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "english": "thousand",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "午",
+    "pinyin": "wǔ",
+    "english": "noon",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013053_Facebook.jpg"
+  },
+  {
+    "hanzi": "午饭很好吃。",
+    "pinyin": "wǔfàn hěn hǎo chī",
+    "english": "Lunch is very delicious.",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_072226_Facebook.jpg"
+  },
+  {
+    "hanzi": "即将",
+    "pinyin": "jí jiāng",
+    "english": "about to",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_140936_Facebook.jpg"
+  },
+  {
+    "hanzi": "原谅我",
+    "pinyin": "yuán liàng wǒ",
+    "english": "Forgive me",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "反",
+    "pinyin": "fǎn",
+    "english": "reverse side",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224456_Facebook.jpg"
+  },
+  {
+    "hanzi": "反正",
+    "pinyin": "fǎn zhèng",
+    "english": "anyway",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224456_Facebook.jpg"
+  },
+  {
+    "hanzi": "取款",
+    "pinyin": "qǔ kuǎn",
+    "english": "withdrawal",
+    "category": "banking",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201455_Facebook.jpg"
+  },
+  {
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "english": "mouth",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "只能",
+    "pinyin": "zhǐ néng",
+    "english": "can only",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220416_Facebook.jpg"
+  },
+  {
+    "hanzi": "只要",
+    "pinyin": "zhīyào",
+    "english": "as long as",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014835_Facebook.jpg"
+  },
+  {
+    "hanzi": "吃，我每天吃一个苹果。",
+    "pinyin": "chī, wǒ měitiān chī yí gè píngguǒ",
+    "english": "Yes, I eat one apple every day.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_071810_Facebook.jpg"
+  },
+  {
+    "hanzi": "同",
+    "pinyin": "tóng",
+    "english": "same",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "听一听",
+    "pinyin": "tīng yī tīng",
+    "english": "Give it a listen",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192657_Facebook.jpg"
+  },
+  {
+    "hanzi": "听听",
+    "pinyin": "tīng tīng",
+    "english": "listen",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "听见了没有",
+    "pinyin": "tīng jiàn le méi yǒu",
+    "english": "did you hear that?",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224657_Facebook.jpg"
+  },
+  {
+    "hanzi": "和西红柿啊",
+    "pinyin": "hé xī hóng shì a",
+    "english": "And tomatoes",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214318_Facebook.jpg"
+  },
+  {
+    "hanzi": "咖啡",
+    "pinyin": "kā fēi",
+    "english": "coffee",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_220918_Facebook.jpg"
+  },
+  {
+    "hanzi": "咱们走",
+    "pinyin": "zán men zǒu",
+    "english": "let's go / hey we go",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230801_Facebook.jpg"
+  },
+  {
+    "hanzi": "咸",
+    "pinyin": "xián",
+    "english": "salty",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220835_Facebook.jpg"
+  },
+  {
+    "hanzi": "哪个",
+    "pinyin": "nǎ ge",
+    "english": "which",
+    "category": "question words",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223825_Facebook.jpg"
+  },
+  {
+    "hanzi": "哪里",
+    "pinyin": "nǎ lǐ",
+    "english": "where",
+    "category": "question words",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223825_Facebook.jpg"
+  },
+  {
+    "hanzi": "唱唱",
+    "pinyin": "chàngchàng",
+    "english": "sing",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "商店",
+    "pinyin": "shāng diàn",
+    "english": "store",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_221653_Facebook.jpg"
+  },
+  {
+    "hanzi": "喂，胡总",
+    "pinyin": "wèi, Hú zǒng",
+    "english": "Hello, Mr. Hu",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260606_163928_Facebook.jpg"
+  },
+  {
+    "hanzi": "喜",
+    "pinyin": "xǐ",
+    "english": "happiness",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "喜欢，我很喜欢苹果。",
+    "pinyin": "xǐhuan, wǒ hěn xǐhuan píngguǒ",
+    "english": "Yes, I really like apples.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_071810_Facebook.jpg"
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "english": "To drink",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_135305_Facebook.jpg"
+  },
+  {
+    "hanzi": "嘴巴",
+    "pinyin": "zuǐ bā",
+    "english": "mouth",
+    "category": "body",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141000_Facebook.jpg"
+  },
+  {
+    "hanzi": "四",
+    "pinyin": "sì",
+    "english": "four",
+    "category": "numbers",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "因为我工作很多。",
+    "pinyin": "Yīnwèi wǒ gōngzuò hěn duō.",
+    "english": "Because I have a lot of work.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_223550_Facebook.jpg"
+  },
+  {
+    "hanzi": "国内",
+    "pinyin": "guónèi",
+    "english": "Internal, home",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073213_Facebook.jpg"
+  },
+  {
+    "hanzi": "国外",
+    "pinyin": "guówài",
+    "english": "Foreign, abroad",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073213_Facebook.jpg"
+  },
+  {
+    "hanzi": "土",
+    "pinyin": "tǔ",
+    "english": "earth",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "在",
+    "pinyin": "zài",
+    "english": "located at / in",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "在这里，在这里",
+    "pinyin": "zài zhè lǐ, zài zhè lǐ",
+    "english": "Here, here",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_210718_Facebook.jpg"
+  },
+  {
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "english": "to sit",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_160459_Facebook.jpg"
+  },
+  {
+    "hanzi": "坐坐",
+    "pinyin": "zuò zuò",
+    "english": "sit for a while",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "外",
+    "pinyin": "wài",
+    "english": "outside",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013609_Facebook.jpg"
+  },
+  {
+    "hanzi": "多谢",
+    "pinyin": "duō xiè",
+    "english": "Thanks a lot",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221707_Facebook.jpg"
+  },
+  {
+    "hanzi": "大家",
+    "pinyin": "dà jiā",
+    "english": "everyone",
+    "category": "pronouns",
+    "frequency": 1,
+    "source_files": "Screenshot_20260605_073628_Facebook.jpg"
+  },
+  {
+    "hanzi": "大山",
+    "pinyin": "dà shān",
+    "english": "tall mountain",
+    "category": "nature",
+    "frequency": 1,
+    "source_files": "Screenshot_20260605_073628_Facebook.jpg"
+  },
+  {
+    "hanzi": "大概",
+    "pinyin": "dà gài",
+    "english": "probably",
+    "category": "adverbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260601_091321_Facebook.jpg"
+  },
+  {
+    "hanzi": "大海",
+    "pinyin": "dà hǎi",
+    "english": "sea",
+    "category": "nature",
+    "frequency": 1,
+    "source_files": "Screenshot_20260605_073628_Facebook.jpg"
+  },
+  {
+    "hanzi": "大笑",
+    "pinyin": "dà xiào",
+    "english": "laugh out loud",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260605_073628_Facebook.jpg"
+  },
+  {
+    "hanzi": "大象",
+    "pinyin": "dà xiàng",
+    "english": "elephant",
+    "category": "nature",
+    "frequency": 1,
+    "source_files": "Screenshot_20260605_073628_Facebook.jpg"
+  },
+  {
+    "hanzi": "大雪",
+    "pinyin": "dà xuě",
+    "english": "heavy snow",
+    "category": "nature",
+    "frequency": 1,
+    "source_files": "Screenshot_20260605_073628_Facebook.jpg"
+  },
+  {
+    "hanzi": "太多了",
+    "pinyin": "tài duō le",
+    "english": "So many",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_223600_Facebook.jpg"
+  },
+  {
+    "hanzi": "太快了",
+    "pinyin": "tài kuài le",
+    "english": "So quickly",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_223600_Facebook.jpg"
+  },
+  {
+    "hanzi": "太早了",
+    "pinyin": "tài zǎo le",
+    "english": "So early",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_223600_Facebook.jpg"
+  },
+  {
+    "hanzi": "太热了",
+    "pinyin": "tài rè le",
+    "english": "So hot",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_223600_Facebook.jpg"
+  },
+  {
+    "hanzi": "太简单了",
+    "pinyin": "tài jiǎn dān le",
+    "english": "So easy",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_223600_Facebook.jpg"
+  },
+  {
+    "hanzi": "夫",
+    "pinyin": "fū",
+    "english": "man",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "头发",
+    "pinyin": "tóu fā",
+    "english": "hair",
+    "category": "body",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141000_Facebook.jpg"
+  },
+  {
+    "hanzi": "女",
+    "pinyin": "nǚ",
+    "english": "female",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "english": "she",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "她今天心情不好",
+    "pinyin": "tā jīntiān xīnqíng bù hǎo",
+    "english": "She's in a bad mood today",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_222441_Facebook.jpg"
+  },
+  {
+    "hanzi": "她离开了",
+    "pinyin": "tā lí kāi le",
+    "english": "She left",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221707_Facebook.jpg"
+  },
+  {
+    "hanzi": "好的",
+    "pinyin": "hǎo de",
+    "english": "Got it / OK",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214809_Facebook.jpg"
+  },
+  {
+    "hanzi": "好辣",
+    "pinyin": "hǎo là",
+    "english": "so spicy",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223410_Facebook.jpg"
+  },
+  {
+    "hanzi": "妈",
+    "pinyin": "mā",
+    "english": "mother",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "姨",
+    "pinyin": "yí",
+    "english": "aunt",
+    "category": "family",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013049_Facebook.jpg"
+  },
+  {
+    "hanzi": "字",
+    "pinyin": "zì",
+    "english": "word / character",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "存款",
+    "pinyin": "cún kuǎn",
+    "english": "deposit",
+    "category": "banking",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201455_Facebook.jpg"
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xué xiào",
+    "english": "school",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_221653_Facebook.jpg"
+  },
+  {
+    "hanzi": "安静",
+    "pinyin": "ān jìng",
+    "english": "be quiet",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014152_Facebook.jpg"
+  },
+  {
+    "hanzi": "完成",
+    "pinyin": "wán chéng",
+    "english": "complete",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_222538_Facebook.jpg"
+  },
+  {
+    "hanzi": "完成任务",
+    "pinyin": "wán chéng rènwù",
+    "english": "complete task",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_222538_Facebook.jpg"
+  },
+  {
+    "hanzi": "完美",
+    "pinyin": "wán měi",
+    "english": "Perfect",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_132306_Facebook.jpg"
+  },
+  {
+    "hanzi": "害怕",
+    "pinyin": "hài pà",
+    "english": "scared",
+    "category": "emotions",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_104804_Facebook.jpg"
+  },
+  {
+    "hanzi": "害羞",
+    "pinyin": "hài xiū",
+    "english": "shy",
+    "category": "emotions",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_104804_Facebook.jpg"
+  },
+  {
+    "hanzi": "家人",
+    "pinyin": "jiārén",
+    "english": "Family",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073213_Facebook.jpg"
+  },
+  {
+    "hanzi": "密码",
+    "pinyin": "mì mǎ",
+    "english": "password",
+    "category": "banking",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201455_Facebook.jpg"
+  },
+  {
+    "hanzi": "对",
+    "pinyin": "duì",
+    "english": "right / correct",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "对公账户",
+    "pinyin": "duì gōng zhàng hù",
+    "english": "Corporate Account",
+    "category": "finance",
+    "frequency": 1,
+    "source_files": "Screenshot_20260606_163928_Facebook.jpg"
+  },
+  {
+    "hanzi": "尚未",
+    "pinyin": "shàng wèi",
+    "english": "not yet",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_140936_Facebook.jpg"
+  },
+  {
+    "hanzi": "尝尝",
+    "pinyin": "chángcháng",
+    "english": "have a taste",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "山",
+    "pinyin": "shān",
+    "english": "mountain",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "川",
+    "pinyin": "chuān",
+    "english": "river",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "工",
+    "pinyin": "gōng",
+    "english": "work",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "差不多",
+    "pinyin": "chā bu duō",
+    "english": "pretty much / almost",
+    "category": "adverbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260601_091321_Facebook.jpg"
+  },
+  {
+    "hanzi": "已经",
+    "pinyin": "yǐ jīng",
+    "english": "already done",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_140936_Facebook.jpg"
+  },
+  {
+    "hanzi": "市场",
+    "pinyin": "shì chǎng",
+    "english": "market",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_221653_Facebook.jpg"
+  },
+  {
+    "hanzi": "帮个忙呗",
+    "pinyin": "bāng gè máng bài",
+    "english": "Do me a favor.",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_225635_Facebook.jpg"
+  },
+  {
+    "hanzi": "帮帮我",
+    "pinyin": "bāng bāng wǒ",
+    "english": "Help me",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230907_Facebook.jpg"
+  },
+  {
+    "hanzi": "干",
+    "pinyin": "gān",
+    "english": "dry",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "干得好",
+    "pinyin": "gàn de hǎo",
+    "english": "Good job",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_132306_Facebook.jpg"
+  },
+  {
+    "hanzi": "年",
+    "pinyin": "nián",
+    "english": "year",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "幸",
+    "pinyin": "xìng",
+    "english": "luck",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "床",
+    "pinyin": "chuáng",
+    "english": "Bed",
+    "category": "furniture",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192048_Facebook.jpg"
+  },
+  {
+    "hanzi": "床头柜",
+    "pinyin": "chuáng tóu guì",
+    "english": "Bedside Table",
+    "category": "furniture",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192048_Facebook.jpg"
+  },
+  {
+    "hanzi": "店",
+    "pinyin": "diàn",
+    "english": "shop",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "english": "open",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "开心",
+    "pinyin": "kāi xīn",
+    "english": "happy",
+    "category": "emotions",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_104804_Facebook.jpg"
+  },
+  {
+    "hanzi": "开玩笑的。",
+    "pinyin": "Kāi wánxiào de.",
+    "english": "I'm joking.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_074824_Facebook.jpg"
+  },
+  {
+    "hanzi": "很高兴认识你",
+    "pinyin": "hěn gāo xìng rèn shi nǐ",
+    "english": "Nice to meet you",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_075124_Facebook.jpg"
+  },
+  {
+    "hanzi": "得",
+    "pinyin": "de",
+    "english": "Complement particle (得 + Adj.)",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg"
+  },
+  {
+    "hanzi": "微信",
+    "pinyin": "wēi xìn",
+    "english": "WeChat",
+    "category": "apps",
+    "frequency": 1,
+    "source_files": "Screenshot_20260606_163928_Facebook.jpg"
+  },
+  {
+    "hanzi": "心",
+    "pinyin": "xīn",
+    "english": "heart / mind",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "快一点",
+    "pinyin": "kuài yī diǎn",
+    "english": "hurry up",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230801_Facebook.jpg"
+  },
+  {
+    "hanzi": "怎么回事",
+    "pinyin": "zěn me huí shì",
+    "english": "What's going on?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_223717_Facebook.jpg"
+  },
+  {
+    "hanzi": "怎么样",
+    "pinyin": "zěn me yàng",
+    "english": "how about it",
+    "category": "question words",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223825_Facebook.jpg"
+  },
+  {
+    "hanzi": "惊讶",
+    "pinyin": "jīng yà",
+    "english": "surprised",
+    "category": "emotions",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_104804_Facebook.jpg"
+  },
+  {
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "english": "think / want",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "想想",
+    "pinyin": "xiǎngxiǎng",
+    "english": "think about",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "慢慢地吃",
+    "pinyin": "màn màn de chī",
+    "english": "Eat slowly",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg"
+  },
+  {
+    "hanzi": "我一毛钱都没有",
+    "pinyin": "wǒ yī máo qián dōu méi yǒu",
+    "english": "I don't have a single cent",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_182410_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不喜欢",
+    "pinyin": "wǒ bù xǐ huān",
+    "english": "I don't like it",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094527_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不在乎",
+    "pinyin": "wǒ bù zài hū",
+    "english": "I don't care",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094527_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不在意",
+    "pinyin": "wǒ bù zài yì",
+    "english": "I don't care",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192228_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不太舒服",
+    "pinyin": "wǒ bú tài shū fu",
+    "english": "I'm not feeling well",
+    "category": "health",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_095331_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不接待",
+    "pinyin": "wǒ bù jiē dài",
+    "english": "I don't receive (a visitor)",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192228_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不明白",
+    "pinyin": "wǒ bù míng bái",
+    "english": "I don't get it",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094527_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不确定。",
+    "pinyin": "Wǒ bú què dìng.",
+    "english": "I'm not sure.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221747_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不累。",
+    "pinyin": "wǒ bú lèi",
+    "english": "I'm not tired.",
+    "category": "health",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_095350_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不记得",
+    "pinyin": "wǒ bù jì de",
+    "english": "I don't remember",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260613_094527_Facebook.jpg"
+  },
+  {
+    "hanzi": "我不需要",
+    "pinyin": "wǒ bù xū yào",
+    "english": "I don't need it",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230801_Facebook.jpg"
+  },
+  {
+    "hanzi": "我中午十二点吃午饭。",
+    "pinyin": "wǒ zhōngwǔ shí'èr diǎn chī wǔfàn",
+    "english": "I eat lunch at 12 noon.",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_072226_Facebook.jpg"
+  },
+  {
+    "hanzi": "我今天很累。",
+    "pinyin": "Wǒ jīntiān hěn lèi.",
+    "english": "I am very tired today.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_223550_Facebook.jpg"
+  },
+  {
+    "hanzi": "我今年25岁",
+    "pinyin": "wǒ jīn nián èr shí wǔ suì",
+    "english": "I am 25 years old",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_222054_Facebook.jpg"
+  },
+  {
+    "hanzi": "我以为",
+    "pinyin": "wǒ yǐ wéi",
+    "english": "I thought",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073748_Facebook.jpg"
+  },
+  {
+    "hanzi": "我以为他很好",
+    "pinyin": "wǒ yǐ wéi tā hěn hǎo",
+    "english": "I thought he was very good",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073757_Facebook.jpg"
+  },
+  {
+    "hanzi": "我以为你买了",
+    "pinyin": "wǒ yǐ wéi nǐ mǎi le",
+    "english": "I thought you bought it",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073752_Facebook.jpg"
+  },
+  {
+    "hanzi": "我以为你去过",
+    "pinyin": "wǒ yǐ wéi nǐ qù guò",
+    "english": "I thought you had been",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073753_Facebook.jpg"
+  },
+  {
+    "hanzi": "我以为你吃过",
+    "pinyin": "wǒ yǐ wéi nǐ chī guò",
+    "english": "I thought you had eaten",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073755_Facebook.jpg"
+  },
+  {
+    "hanzi": "我以为你来了",
+    "pinyin": "wǒ yǐ wéi nǐ lái le",
+    "english": "I thought you were here",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073750_Facebook.jpg"
+  },
+  {
+    "hanzi": "我以为她是老师",
+    "pinyin": "wǒ yǐ wéi tā shì lǎo shī",
+    "english": "I thought she was a teacher",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_234550_Facebook.jpg"
+  },
+  {
+    "hanzi": "我们一起吃午饭吧。",
+    "pinyin": "wǒmen yīqǐ chī wǔfàn ba",
+    "english": "Let's eat lunch together.",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_072226_Facebook.jpg"
+  },
+  {
+    "hanzi": "我会说一点中文。",
+    "pinyin": "wǒ huì shuō yī diǎn zhōng wén",
+    "english": "I can speak a little Chinese.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_071257_Facebook.jpg"
+  },
+  {
+    "hanzi": "我会说一点点中文",
+    "pinyin": "wǒ huì shuō yīdiǎndiǎn zhōngwén",
+    "english": "I can speak a little bit of Chinese",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_132545_Facebook.jpg"
+  },
+  {
+    "hanzi": "我可以进来吗？",
+    "pinyin": "Wǒ kě yǐ jìn lái ma?",
+    "english": "May I come in?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_222351_Facebook.jpg"
+  },
+  {
+    "hanzi": "我吃午饭。",
+    "pinyin": "wǒ chī wǔfàn",
+    "english": "I eat lunch.",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_072226_Facebook.jpg"
+  },
+  {
+    "hanzi": "我听你的",
+    "pinyin": "wǒ tīng nǐ de",
+    "english": "I'll listen to you",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_071645_Facebook.jpg"
+  },
+  {
+    "hanzi": "我喜欢吃米饭和菜。",
+    "pinyin": "wǒ xǐhuan chī mǐfàn hé cài",
+    "english": "I like to eat rice and vegetables.",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_072226_Facebook.jpg"
+  },
+  {
+    "hanzi": "我喜欢看书",
+    "pinyin": "wǒ xǐ huān kàn shū",
+    "english": "I like reading",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_222054_Facebook.jpg"
+  },
+  {
+    "hanzi": "我回来了",
+    "pinyin": "wǒ huí lái le",
+    "english": "I'm back",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_234907_Facebook.jpg"
+  },
+  {
+    "hanzi": "我学习中文已经1年了",
+    "pinyin": "wǒ xué xí zhōng wén yī jīng yī nián le",
+    "english": "I have been learning Chinese for 1 year",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_222054_Facebook.jpg"
+  },
+  {
+    "hanzi": "我很担心明天的考试",
+    "pinyin": "wǒ hěn dānxīn míngtiān de kǎoshì",
+    "english": "I'm worried about tomorrow's exam",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_222431_Facebook.jpg"
+  },
+  {
+    "hanzi": "我得走了",
+    "pinyin": "wǒ děi zǒu le",
+    "english": "I have to go now",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_070514_Facebook.jpg"
+  },
+  {
+    "hanzi": "我想去，但是下雨",
+    "pinyin": "Wǒ xiǎng qù, dànshì xià yǔ.",
+    "english": "I want to go, but it's raining.",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223608_Facebook.jpg"
+  },
+  {
+    "hanzi": "我拒绝",
+    "pinyin": "wǒ jù jué",
+    "english": "I refuse",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192228_Facebook.jpg"
+  },
+  {
+    "hanzi": "我无所谓",
+    "pinyin": "wǒ wú suǒ wèi",
+    "english": "I don't care",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_071645_Facebook.jpg"
+  },
+  {
+    "hanzi": "我明白",
+    "pinyin": "wǒ míng bái",
+    "english": "I understand",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "我来自中国",
+    "pinyin": "wǒ lái zì zhōng guó",
+    "english": "I come from China",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_222054_Facebook.jpg"
+  },
+  {
+    "hanzi": "我正在学中文。",
+    "pinyin": "wǒ zhèng zài xué zhōng wén",
+    "english": "I am learning Chinese.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_071257_Facebook.jpg"
+  },
+  {
+    "hanzi": "我没时间",
+    "pinyin": "wǒ méi shí jiān",
+    "english": "I don't have time",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230801_Facebook.jpg"
+  },
+  {
+    "hanzi": "我的中文不太好",
+    "pinyin": "wǒ de zhōngwén bú tài hǎo",
+    "english": "My Chinese is not very good",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_132545_Facebook.jpg"
+  },
+  {
+    "hanzi": "我的书",
+    "pinyin": "wǒ de shū",
+    "english": "My book",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg"
+  },
+  {
+    "hanzi": "我的包",
+    "pinyin": "wǒ de bāo",
+    "english": "My bag",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg"
+  },
+  {
+    "hanzi": "我的名字是XX",
+    "pinyin": "wǒ de míng zì shì XX",
+    "english": "My name is XX",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_222054_Facebook.jpg"
+  },
+  {
+    "hanzi": "我的朋友在哪里",
+    "pinyin": "wǒ de péng yǒu zài nǎ lǐ",
+    "english": "Where is my friend?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_210718_Facebook.jpg"
+  },
+  {
+    "hanzi": "我的朋友在这里",
+    "pinyin": "wǒ de péng yǒu zài zhè lǐ",
+    "english": "My friend is here",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_210718_Facebook.jpg"
+  },
+  {
+    "hanzi": "我的鞋",
+    "pinyin": "wǒ de xié",
+    "english": "My shoe",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg"
+  },
+  {
+    "hanzi": "我知道",
+    "pinyin": "wǒ zhī dào",
+    "english": "I know",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "我要买西红柿",
+    "pinyin": "wǒ yào mǎi xī hóng shì",
+    "english": "I need to buy tomatoes",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214315_Facebook.jpg"
+  },
+  {
+    "hanzi": "我要这个",
+    "pinyin": "wǒ yào zhè ge",
+    "english": "I want this",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230801_Facebook.jpg"
+  },
+  {
+    "hanzi": "我要那个",
+    "pinyin": "wǒ yào nà ge",
+    "english": "I want that",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230801_Facebook.jpg"
+  },
+  {
+    "hanzi": "我请客",
+    "pinyin": "wǒ qǐng kè",
+    "english": "My treat",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "我走了",
+    "pinyin": "wǒ zǒu le",
+    "english": "I'm gone",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_234903_Facebook.jpg"
+  },
+  {
+    "hanzi": "我迷路了",
+    "pinyin": "wǒ mí lù le",
+    "english": "I'm lost",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221707_Facebook.jpg"
+  },
+  {
+    "hanzi": "我道歉",
+    "pinyin": "wǒ dào qiàn",
+    "english": "I apologize",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "或者",
+    "pinyin": "huò zhě",
+    "english": "or",
+    "category": "conjunctions",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_085051_Facebook.jpg"
+  },
+  {
+    "hanzi": "打扰一下",
+    "pinyin": "dǎ rǎo yī xià",
+    "english": "Excuse me",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221707_Facebook.jpg"
+  },
+  {
+    "hanzi": "抱抱我",
+    "pinyin": "bào bào wǒ",
+    "english": "Hold me",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230907_Facebook.jpg"
+  },
+  {
+    "hanzi": "拉",
+    "pinyin": "lā",
+    "english": "pull",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014948_Facebook.jpg"
+  },
+  {
+    "hanzi": "拍",
+    "pinyin": "pāi",
+    "english": "slap / clap",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014948_Facebook.jpg"
+  },
+  {
+    "hanzi": "拍打",
+    "pinyin": "pāi dǎ",
+    "english": "Slap",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073202_Facebook.jpg"
+  },
+  {
+    "hanzi": "拍拍",
+    "pinyin": "pāi pāi",
+    "english": "pat",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "拜托了",
+    "pinyin": "bài tuō le",
+    "english": "Please.",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_225615_Facebook.jpg"
+  },
+  {
+    "hanzi": "拳打",
+    "pinyin": "quán dǎ",
+    "english": "Punch",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073202_Facebook.jpg"
+  },
+  {
+    "hanzi": "拿起来",
+    "pinyin": "ná qǐ lái",
+    "english": "pick up",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_145255_Facebook.jpg"
+  },
+  {
+    "hanzi": "按",
+    "pinyin": "àn",
+    "english": "press",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014948_Facebook.jpg"
+  },
+  {
+    "hanzi": "挑",
+    "pinyin": "tiāo",
+    "english": "pick",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220732_Facebook.jpg"
+  },
+  {
+    "hanzi": "推",
+    "pinyin": "tuī",
+    "english": "push",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014948_Facebook.jpg"
+  },
+  {
+    "hanzi": "支付宝",
+    "pinyin": "zhī fù bǎo",
+    "english": "Alipay",
+    "category": "apps",
+    "frequency": 1,
+    "source_files": "Screenshot_20260606_163928_Facebook.jpg"
+  },
+  {
+    "hanzi": "收到",
+    "pinyin": "shōu dào",
+    "english": "Received",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214809_Facebook.jpg"
+  },
+  {
+    "hanzi": "放下",
+    "pinyin": "fàng xia",
+    "english": "put down",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_145258_Facebook.jpg"
+  },
+  {
+    "hanzi": "敲打",
+    "pinyin": "qiāo dǎ",
+    "english": "Beat",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073202_Facebook.jpg"
+  },
+  {
+    "hanzi": "文",
+    "pinyin": "wén",
+    "english": "text",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "无",
+    "pinyin": "wú",
+    "english": "nothing / none",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013049_Facebook.jpg"
+  },
+  {
+    "hanzi": "日",
+    "pinyin": "rì",
+    "english": "sun / day",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "时",
+    "pinyin": "shí",
+    "english": "time",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "时常",
+    "pinyin": "shí cháng",
+    "english": "often",
+    "category": "adverbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_220422_Facebook.jpg"
+  },
+  {
+    "hanzi": "明天见",
+    "pinyin": "míngtiān jiàn",
+    "english": "See you tomorrow",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_070518_Facebook.jpg"
+  },
+  {
+    "hanzi": "星",
+    "pinyin": "xīng",
+    "english": "star",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "是我的错",
+    "pinyin": "shì wǒ de cuò",
+    "english": "My fault",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "english": "moon",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "有时候",
+    "pinyin": "yǒushíhou",
+    "english": "sometimes",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014835_Facebook.jpg"
+  },
+  {
+    "hanzi": "木",
+    "pinyin": "mù",
+    "english": "wood",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "未来",
+    "pinyin": "wèi lái",
+    "english": "future",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_231730_Facebook.jpg"
+  },
+  {
+    "hanzi": "机场",
+    "pinyin": "jīchǎng",
+    "english": "Airport",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073213_Facebook.jpg"
+  },
+  {
+    "hanzi": "机票",
+    "pinyin": "jīpiào",
+    "english": "Plane ticket",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073213_Facebook.jpg"
+  },
+  {
+    "hanzi": "村",
+    "pinyin": "cūn",
+    "english": "village",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "来来来",
+    "pinyin": "lái lái lái",
+    "english": "come on",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230801_Facebook.jpg"
+  },
+  {
+    "hanzi": "极少",
+    "pinyin": "jí shǎo",
+    "english": "Rarely",
+    "category": "adverbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260606_164208_Facebook.jpg"
+  },
+  {
+    "hanzi": "果汁",
+    "pinyin": "guǒ zhī",
+    "english": "juice",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_220918_Facebook.jpg"
+  },
+  {
+    "hanzi": "柠檬",
+    "pinyin": "níng méng",
+    "english": "lemon",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013209_Facebook.jpg"
+  },
+  {
+    "hanzi": "查询",
+    "pinyin": "chá xún",
+    "english": "inquire",
+    "category": "banking",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201455_Facebook.jpg"
+  },
+  {
+    "hanzi": "校",
+    "pinyin": "xiào",
+    "english": "school",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "桃子",
+    "pinyin": "táo zi",
+    "english": "peach",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013209_Facebook.jpg"
+  },
+  {
+    "hanzi": "桌子",
+    "pinyin": "zhuō zi",
+    "english": "Table",
+    "category": "furniture",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192048_Facebook.jpg"
+  },
+  {
+    "hanzi": "梳妆台",
+    "pinyin": "shū zhuàng tái",
+    "english": "Dressing Table",
+    "category": "furniture",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192048_Facebook.jpg"
+  },
+  {
+    "hanzi": "椅子",
+    "pinyin": "yǐ zi",
+    "english": "Chair",
+    "category": "furniture",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192048_Facebook.jpg"
+  },
+  {
+    "hanzi": "樱桃",
+    "pinyin": "yīng táo",
+    "english": "cherry",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013209_Facebook.jpg"
+  },
+  {
+    "hanzi": "橘子",
+    "pinyin": "júzi",
+    "english": "orange",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_145404_Facebook.jpg"
+  },
+  {
+    "hanzi": "橙子",
+    "pinyin": "chéng zi",
+    "english": "orange",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013209_Facebook.jpg"
+  },
+  {
+    "hanzi": "歇歇",
+    "pinyin": "xiē xiē",
+    "english": "take a rest",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "正",
+    "pinyin": "zhèng",
+    "english": "front",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224456_Facebook.jpg"
+  },
+  {
+    "hanzi": "正在",
+    "pinyin": "zhèng zài",
+    "english": "currently doing",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_140936_Facebook.jpg"
+  },
+  {
+    "hanzi": "死活",
+    "pinyin": "sǐ huó",
+    "english": "firmly; anyway",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224513_Facebook.jpg"
+  },
+  {
+    "hanzi": "死活不同意",
+    "pinyin": "sǐ huó bù tóng yì",
+    "english": "wouldn't be seen dead doing (it); firmly disagree",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224517_Facebook.jpg"
+  },
+  {
+    "hanzi": "比如",
+    "pinyin": "bǐrú",
+    "english": "for example",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014835_Facebook.jpg"
+  },
+  {
+    "hanzi": "气",
+    "pinyin": "qì",
+    "english": "air",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "水果",
+    "pinyin": "shuǐ guǒ",
+    "english": "fruit",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221617_Facebook.jpg"
+  },
+  {
+    "hanzi": "求你了",
+    "pinyin": "qiú nǐ le",
+    "english": "I'm begging you",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_225626_Facebook.jpg"
+  },
+  {
+    "hanzi": "汇款",
+    "pinyin": "huì kuǎn",
+    "english": "remittance",
+    "category": "banking",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201455_Facebook.jpg"
+  },
+  {
+    "hanzi": "汤",
+    "pinyin": "tāng",
+    "english": "soup",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_220918_Facebook.jpg"
+  },
+  {
+    "hanzi": "沙发",
+    "pinyin": "shā fā",
+    "english": "Sofa",
+    "category": "furniture",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192048_Facebook.jpg"
+  },
+  {
+    "hanzi": "没",
+    "pinyin": "méi",
+    "english": "no / not have",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "油",
+    "pinyin": "yóu",
+    "english": "oil",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224739_Facebook.jpg"
+  },
+  {
+    "hanzi": "注意",
+    "pinyin": "Zhù yì",
+    "english": "pay attention",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223449_Facebook.jpg"
+  },
+  {
+    "hanzi": "注意我",
+    "pinyin": "Zhùyì wǒ",
+    "english": "pay attention to me",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223449_Facebook.jpg"
+  },
+  {
+    "hanzi": "洗洗",
+    "pinyin": "xǐ xǐ",
+    "english": "wash",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "洗澡",
+    "pinyin": "xǐ zǎo",
+    "english": "to shower",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_160459_Facebook.jpg"
+  },
+  {
+    "hanzi": "活",
+    "pinyin": "huó",
+    "english": "live",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224513_Facebook.jpg"
+  },
+  {
+    "hanzi": "浅",
+    "pinyin": "qiǎn",
+    "english": "shallow",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224509_Facebook.jpg"
+  },
+  {
+    "hanzi": "海",
+    "pinyin": "hǎi",
+    "english": "sea",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "深",
+    "pinyin": "shēn",
+    "english": "deep",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224509_Facebook.jpg"
+  },
+  {
+    "hanzi": "深浅",
+    "pinyin": "shēn qiǎn",
+    "english": "depth",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224509_Facebook.jpg"
+  },
+  {
+    "hanzi": "火",
+    "pinyin": "huǒ",
+    "english": "fire",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "火车票",
+    "pinyin": "huǒchēpiào",
+    "english": "Train ticket",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073213_Facebook.jpg"
+  },
+  {
+    "hanzi": "烦死了",
+    "pinyin": "fán sǐ le",
+    "english": "so annoying / I'm so fed up",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230100_Facebook.jpg"
+  },
+  {
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "english": "love",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "牙齿",
+    "pinyin": "yá chǐ",
+    "english": "tooth",
+    "category": "body",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141000_Facebook.jpg"
+  },
+  {
+    "hanzi": "牛奶",
+    "pinyin": "niú nǎi",
+    "english": "milk",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_220918_Facebook.jpg"
+  },
+  {
+    "hanzi": "特别注意",
+    "pinyin": "Tèbié Zhùyì",
+    "english": "pay special attention",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223449_Facebook.jpg"
+  },
+  {
+    "hanzi": "猜一猜",
+    "pinyin": "cāi yī cāi",
+    "english": "Take a guess",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192701_Facebook.jpg"
+  },
+  {
+    "hanzi": "猜猜",
+    "pinyin": "cāi cāi",
+    "english": "guess",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "english": "cat",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "猴",
+    "pinyin": "hóu",
+    "english": "Monkey",
+    "category": "zodiac",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "玉",
+    "pinyin": "yù",
+    "english": "jade",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "王",
+    "pinyin": "wáng",
+    "english": "king",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "玩玩",
+    "pinyin": "wán wán",
+    "english": "play",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "现在",
+    "pinyin": "xiàn zài",
+    "english": "now",
+    "category": "time",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_231730_Facebook.jpg"
+  },
+  {
+    "hanzi": "瓜",
+    "pinyin": "guā",
+    "english": "melon",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214703_Facebook.jpg"
+  },
+  {
+    "hanzi": "甜",
+    "pinyin": "tián",
+    "english": "sweet",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220835_Facebook.jpg"
+  },
+  {
+    "hanzi": "甜不甜",
+    "pinyin": "tián bù tián",
+    "english": "Is it sweet?",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214703_Facebook.jpg"
+  },
+  {
+    "hanzi": "生气",
+    "pinyin": "shēng qì",
+    "english": "angry",
+    "category": "emotions",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_104804_Facebook.jpg"
+  },
+  {
+    "hanzi": "生气地说",
+    "pinyin": "shēng qì de shuō",
+    "english": "Said angrily",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg"
+  },
+  {
+    "hanzi": "生生世世",
+    "pinyin": "shēng shēng shì shì",
+    "english": "forever and ever",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_225250_Facebook.jpg"
+  },
+  {
+    "hanzi": "田",
+    "pinyin": "tián",
+    "english": "field",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "电影",
+    "pinyin": "diàn yǐng",
+    "english": "movie",
+    "category": "electronics",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201550_Facebook.jpg"
+  },
+  {
+    "hanzi": "电梯",
+    "pinyin": "diàn tī",
+    "english": "elevator",
+    "category": "electronics",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201550_Facebook.jpg"
+  },
+  {
+    "hanzi": "电池",
+    "pinyin": "diàn chí",
+    "english": "battery",
+    "category": "electronics",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201550_Facebook.jpg"
+  },
+  {
+    "hanzi": "电脑",
+    "pinyin": "diàn nǎo",
+    "english": "computer",
+    "category": "electronics",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201550_Facebook.jpg"
+  },
+  {
+    "hanzi": "电视",
+    "pinyin": "diàn shì",
+    "english": "television",
+    "category": "electronics",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201550_Facebook.jpg"
+  },
+  {
+    "hanzi": "电话",
+    "pinyin": "diàn huà",
+    "english": "phone",
+    "category": "electronics",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201550_Facebook.jpg"
+  },
+  {
+    "hanzi": "男",
+    "pinyin": "nán",
+    "english": "male",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "病",
+    "pinyin": "bìng",
+    "english": "illness",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "白",
+    "pinyin": "bái",
+    "english": "white",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "english": "hundred",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "目",
+    "pinyin": "mù",
+    "english": "eye",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "相信我。",
+    "pinyin": "Xiāng xìn wǒ.",
+    "english": "Believe me.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_074833_Facebook.jpg"
+  },
+  {
+    "hanzi": "相信自己。",
+    "pinyin": "xiāng xìn zì jǐ.",
+    "english": "Believe in yourself.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_231218_Facebook.jpg"
+  },
+  {
+    "hanzi": "看一看",
+    "pinyin": "kàn yī kàn",
+    "english": "Take a look",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192654_Facebook.jpg"
+  },
+  {
+    "hanzi": "看看",
+    "pinyin": "kàn kàn",
+    "english": "take a look",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "看看我",
+    "pinyin": "kàn kān wǒ",
+    "english": "Look at me",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230907_Facebook.jpg"
+  },
+  {
+    "hanzi": "真的",
+    "pinyin": "zhēn de",
+    "english": "Really",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "眼睛",
+    "pinyin": "yǎn jīng",
+    "english": "eye",
+    "category": "body",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141000_Facebook.jpg"
+  },
+  {
+    "hanzi": "睡得好",
+    "pinyin": "shuì de hǎo",
+    "english": "Slept well",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg"
+  },
+  {
+    "hanzi": "石",
+    "pinyin": "shí",
+    "english": "stone",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "稍等一下",
+    "pinyin": "shāo děng yī xià",
+    "english": "One moment please",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214809_Facebook.jpg"
+  },
+  {
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "english": "to wear",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_160459_Facebook.jpg"
+  },
+  {
+    "hanzi": "穿上",
+    "pinyin": "chuān shàng",
+    "english": "put on (clothes)",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_145305_Facebook.jpg"
+  },
+  {
+    "hanzi": "突然",
+    "pinyin": "tūrán",
+    "english": "suddenly",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014835_Facebook.jpg"
+  },
+  {
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "english": "to stand",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_160459_Facebook.jpg"
+  },
+  {
+    "hanzi": "竟然",
+    "pinyin": "jìngrán",
+    "english": "unexpectedly",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014835_Facebook.jpg"
+  },
+  {
+    "hanzi": "第二课",
+    "pinyin": "Dì èr kè",
+    "english": "Lesson 2",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_222351_Facebook.jpg"
+  },
+  {
+    "hanzi": "等等我",
+    "pinyin": "děng děng wǒ",
+    "english": "Wait for me",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230907_Facebook.jpg"
+  },
+  {
+    "hanzi": "筷子",
+    "pinyin": "kuài zi",
+    "english": "chopsticks",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_225413_Facebook.jpg"
+  },
+  {
+    "hanzi": "米",
+    "pinyin": "mǐ",
+    "english": "rice (grain)",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "米饭",
+    "pinyin": "mǐ fàn",
+    "english": "rice (cooked)",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221617_Facebook.jpg"
+  },
+  {
+    "hanzi": "类似",
+    "pinyin": "lèi sì",
+    "english": "similar",
+    "category": "adverbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260601_091321_Facebook.jpg"
+  },
+  {
+    "hanzi": "红",
+    "pinyin": "hóng",
+    "english": "red",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "绿",
+    "pinyin": "lǜ",
+    "english": "green",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "罕见",
+    "pinyin": "hǎn jiàn",
+    "english": "rarely",
+    "category": "adverbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_150620_Facebook.jpg"
+  },
+  {
+    "hanzi": "羊",
+    "pinyin": "yáng",
+    "english": "Sheep",
+    "category": "zodiac",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "老友",
+    "pinyin": "lǎoyǒu",
+    "english": "Old friend",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_204859_Facebook.jpg"
+  },
+  {
+    "hanzi": "老哥",
+    "pinyin": "lǎogē",
+    "english": "Big brother",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_204859_Facebook.jpg"
+  },
+  {
+    "hanzi": "老大",
+    "pinyin": "lǎodà",
+    "english": "Big boss / Leader",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_204859_Facebook.jpg"
+  },
+  {
+    "hanzi": "老家",
+    "pinyin": "lǎojiā",
+    "english": "Home town",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073213_Facebook.jpg"
+  },
+  {
+    "hanzi": "老年",
+    "pinyin": "lǎonáin",
+    "english": "Old age",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_204859_Facebook.jpg"
+  },
+  {
+    "hanzi": "老样子",
+    "pinyin": "lǎoyàngzi",
+    "english": "The same as past",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_204859_Facebook.jpg"
+  },
+  {
+    "hanzi": "老虎",
+    "pinyin": "lǎo hǔ",
+    "english": "tiger",
+    "category": "vocabulary",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141948_Facebook.jpg"
+  },
+  {
+    "hanzi": "老鹰",
+    "pinyin": "lǎo yīng",
+    "english": "eagle",
+    "category": "vocabulary",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141948_Facebook.jpg"
+  },
+  {
+    "hanzi": "老鼠",
+    "pinyin": "lǎo shǔ",
+    "english": "mouse",
+    "category": "vocabulary",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141948_Facebook.jpg"
+  },
+  {
+    "hanzi": "耳",
+    "pinyin": "ěr",
+    "english": "ear",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "耳朵",
+    "pinyin": "ěr duǒ",
+    "english": "ear",
+    "category": "body",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141000_Facebook.jpg"
+  },
+  {
+    "hanzi": "肯定",
+    "pinyin": "kěn dìng",
+    "english": "certain",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220416_Facebook.jpg"
+  },
+  {
+    "hanzi": "能",
+    "pinyin": "néng",
+    "english": "can / able",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "能，我能说中文",
+    "pinyin": "néng, wǒ néng shuō zhōng wén",
+    "english": "Yes, I can speak Chinese",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_113052_Facebook.jpg"
+  },
+  {
+    "hanzi": "脑子",
+    "pinyin": "nǎo zi",
+    "english": "brain",
+    "category": "body",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214703_Facebook.jpg"
+  },
+  {
+    "hanzi": "脱下",
+    "pinyin": "tuō xià",
+    "english": "take off (clothes)",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_145318_Facebook.jpg"
+  },
+  {
+    "hanzi": "脸",
+    "pinyin": "liǎn",
+    "english": "face",
+    "category": "body",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141000_Facebook.jpg"
+  },
+  {
+    "hanzi": "自行车",
+    "pinyin": "zì xíng chē",
+    "english": "bicycle",
+    "category": "transportation",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_225521_Facebook.jpg"
+  },
+  {
+    "hanzi": "臭",
+    "pinyin": "chòu",
+    "english": "smelly",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220835_Facebook.jpg"
+  },
+  {
+    "hanzi": "芒果",
+    "pinyin": "máng guǒ",
+    "english": "mango",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_145407_Facebook.jpg"
+  },
+  {
+    "hanzi": "花",
+    "pinyin": "huā",
+    "english": "flower",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "苦",
+    "pinyin": "kǔ",
+    "english": "bitter",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220835_Facebook.jpg"
+  },
+  {
+    "hanzi": "苦瓜",
+    "pinyin": "kǔ guā",
+    "english": "bitter melon",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214703_Facebook.jpg"
+  },
+  {
+    "hanzi": "茶几",
+    "pinyin": "chá jī",
+    "english": "Coffee Table",
+    "category": "furniture",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192048_Facebook.jpg"
+  },
+  {
+    "hanzi": "草莓",
+    "pinyin": "cǎo méi",
+    "english": "strawberry",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013209_Facebook.jpg"
+  },
+  {
+    "hanzi": "蓝",
+    "pinyin": "lán",
+    "english": "blue",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "虎",
+    "pinyin": "hǔ",
+    "english": "Tiger",
+    "category": "zodiac",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "虫",
+    "pinyin": "chóng",
+    "english": "insect",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "蚁",
+    "pinyin": "yǐ",
+    "english": "ant",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013053_Facebook.jpg"
+  },
+  {
+    "hanzi": "蛇",
+    "pinyin": "shé",
+    "english": "Snake",
+    "category": "zodiac",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "蜜蜂",
+    "pinyin": "mìfēng",
+    "english": "honey",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220802_Facebook.jpg"
+  },
+  {
+    "hanzi": "行",
+    "pinyin": "xíng",
+    "english": "go",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "衣柜",
+    "pinyin": "yī guì",
+    "english": "Wardrobe",
+    "category": "furniture",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_192048_Facebook.jpg"
+  },
+  {
+    "hanzi": "西瓜",
+    "pinyin": "xī guā",
+    "english": "watermelon",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013209_Facebook.jpg"
+  },
+  {
+    "hanzi": "要",
+    "pinyin": "yāo",
+    "english": "To demand / To require",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_135305_Facebook.jpg"
+  },
+  {
+    "hanzi": "认真地听",
+    "pinyin": "rèn zhēn de tīng",
+    "english": "Listen carefully",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg"
+  },
+  {
+    "hanzi": "让我想想。",
+    "pinyin": "Ràng wǒ xiǎng xiang.",
+    "english": "Let me see.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_074830_Facebook.jpg"
+  },
+  {
+    "hanzi": "让我考虑一下",
+    "pinyin": "ràng wǒ kǎo lǜ yī xià",
+    "english": "let me think about it",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230801_Facebook.jpg"
+  },
+  {
+    "hanzi": "讲讲",
+    "pinyin": "jiǎngjiǎng",
+    "english": "tell",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "诊所",
+    "pinyin": "zhěn suǒ",
+    "english": "clinic",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_221653_Facebook.jpg"
+  },
+  {
+    "hanzi": "试试",
+    "pinyin": "shì shì",
+    "english": "try",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "试试看。",
+    "pinyin": "Shì shì kàn.",
+    "english": "Give it a shot.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_074811_Facebook.jpg"
+  },
+  {
+    "hanzi": "误",
+    "pinyin": "wù",
+    "english": "mistake",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013056_Facebook.jpg"
+  },
+  {
+    "hanzi": "说得慢",
+    "pinyin": "shuō de màn",
+    "english": "Said slowly",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg"
+  },
+  {
+    "hanzi": "说说",
+    "pinyin": "shuōshuō",
+    "english": "talk about",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "读",
+    "pinyin": "dú",
+    "english": "To read",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_135305_Facebook.jpg"
+  },
+  {
+    "hanzi": "读读",
+    "pinyin": "dú dú",
+    "english": "read",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "谁的",
+    "pinyin": "shuí de",
+    "english": "whose",
+    "category": "question words",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223825_Facebook.jpg"
+  },
+  {
+    "hanzi": "谢谢你",
+    "pinyin": "xiè xie nǐ",
+    "english": "Thank you",
+    "category": "greetings",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214809_Facebook.jpg"
+  },
+  {
+    "hanzi": "豆",
+    "pinyin": "dòu",
+    "english": "bean",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "english": "expensive",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220732_Facebook.jpg"
+  },
+  {
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "english": "to walk",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_160459_Facebook.jpg"
+  },
+  {
+    "hanzi": "走走",
+    "pinyin": "zǒu zǒu",
+    "english": "walk",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "起",
+    "pinyin": "qǐ",
+    "english": "up / rise",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "起床",
+    "pinyin": "qǐ chuáng",
+    "english": "to get up",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_160459_Facebook.jpg"
+  },
+  {
+    "hanzi": "超市",
+    "pinyin": "chāo shì",
+    "english": "supermarket",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_221653_Facebook.jpg"
+  },
+  {
+    "hanzi": "跑",
+    "pinyin": "pǎo",
+    "english": "to run",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_160459_Facebook.jpg"
+  },
+  {
+    "hanzi": "跑得快",
+    "pinyin": "pǎo de kuài",
+    "english": "Ran quickly",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_073104_Facebook.jpg"
+  },
+  {
+    "hanzi": "跑跑",
+    "pinyin": "pǎo pǎo",
+    "english": "run",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "身后",
+    "pinyin": "shēn hòu",
+    "english": "behind",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_150142_Facebook.jpg"
+  },
+  {
+    "hanzi": "车",
+    "pinyin": "chē",
+    "english": "vehicle",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "车厢",
+    "pinyin": "chē xiāng",
+    "english": "carriage",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220416_Facebook.jpg"
+  },
+  {
+    "hanzi": "轮船",
+    "pinyin": "lún chuán",
+    "english": "steamship",
+    "category": "transportation",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_225544_Facebook.jpg"
+  },
+  {
+    "hanzi": "辣",
+    "pinyin": "là",
+    "english": "spicy",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220835_Facebook.jpg"
+  },
+  {
+    "hanzi": "还有土豆",
+    "pinyin": "hái yǒu tǔ dòu",
+    "english": "And potatoes",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214317_Facebook.jpg"
+  },
+  {
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "english": "this",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "这个怎么说？",
+    "pinyin": "Zhège zěnme shuō?",
+    "english": "What is this called?",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_225512_Facebook.jpg"
+  },
+  {
+    "hanzi": "这个我不要",
+    "pinyin": "zhè ge wǒ bù yào",
+    "english": "I don't want this",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_230801_Facebook.jpg"
+  },
+  {
+    "hanzi": "这是",
+    "pinyin": "zhè shì",
+    "english": "This is",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_214703_Facebook.jpg"
+  },
+  {
+    "hanzi": "这边请",
+    "pinyin": "zhè biān qǐng",
+    "english": "This way please",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221707_Facebook.jpg"
+  },
+  {
+    "hanzi": "进来",
+    "pinyin": "jìn lái",
+    "english": "come in",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_145300_Facebook.jpg"
+  },
+  {
+    "hanzi": "這個貴，但是好",
+    "pinyin": "Zhège guì, dànshì hǎo.",
+    "english": "This is expensive, but good.",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_223608_Facebook.jpg"
+  },
+  {
+    "hanzi": "那",
+    "pinyin": "nà",
+    "english": "that",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "那个",
+    "pinyin": "nà gè",
+    "english": "that",
+    "category": "grammar",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_162132_Facebook.jpg"
+  },
+  {
+    "hanzi": "那些",
+    "pinyin": "nà xiē",
+    "english": "those",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220552_Facebook.jpg"
+  },
+  {
+    "hanzi": "那你早点休息吧。",
+    "pinyin": "Nà nǐ zǎodiǎn xiūxi ba.",
+    "english": "Then you should rest early.",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_223550_Facebook.jpg"
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "english": "all",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "酒店",
+    "pinyin": "jiǔ diàn",
+    "english": "hotel",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_221653_Facebook.jpg"
+  },
+  {
+    "hanzi": "酱油",
+    "pinyin": "jiàng yóu",
+    "english": "soy sauce",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224739_Facebook.jpg"
+  },
+  {
+    "hanzi": "酸",
+    "pinyin": "suān",
+    "english": "sour",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220835_Facebook.jpg"
+  },
+  {
+    "hanzi": "醋",
+    "pinyin": "cù",
+    "english": "vinegar",
+    "category": "food",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224739_Facebook.jpg"
+  },
+  {
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "english": "inside",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_013609_Facebook.jpg"
+  },
+  {
+    "hanzi": "金",
+    "pinyin": "jīn",
+    "english": "metal / gold",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "银行卡",
+    "pinyin": "yín háng kǎ",
+    "english": "bank card",
+    "category": "banking",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201455_Facebook.jpg"
+  },
+  {
+    "hanzi": "闪电",
+    "pinyin": "shǎn diàn",
+    "english": "lightning",
+    "category": "electronics",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_201550_Facebook.jpg"
+  },
+  {
+    "hanzi": "闭嘴",
+    "pinyin": "bì zuǐ",
+    "english": "shut up",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260611_014148_Facebook.jpg"
+  },
+  {
+    "hanzi": "问问",
+    "pinyin": "wènwèn",
+    "english": "ask",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "闻",
+    "pinyin": "wén",
+    "english": "hear",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "闻闻",
+    "pinyin": "wénwén",
+    "english": "smell",
+    "category": "verbs",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_174050_Facebook.jpg"
+  },
+  {
+    "hanzi": "难过",
+    "pinyin": "nán guò",
+    "english": "sad",
+    "category": "emotions",
+    "frequency": 1,
+    "source_files": "Screenshot_20260602_104804_Facebook.jpg"
+  },
+  {
+    "hanzi": "非常",
+    "pinyin": "fēicháng",
+    "english": "Very",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260610_073213_Facebook.jpg"
+  },
+  {
+    "hanzi": "非常好",
+    "pinyin": "fēi cháng hǎo",
+    "english": "Very good",
+    "category": "phrases",
+    "frequency": 1,
+    "source_files": "Screenshot_20260603_112231_Facebook.jpg"
+  },
+  {
+    "hanzi": "面",
+    "pinyin": "miàn",
+    "english": "noodle / face",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "面包",
+    "pinyin": "miàn bāo",
+    "english": "bread",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221617_Facebook.jpg"
+  },
+  {
+    "hanzi": "面条",
+    "pinyin": "miàn tiáo",
+    "english": "noodles",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260608_221617_Facebook.jpg"
+  },
+  {
+    "hanzi": "飞",
+    "pinyin": "fēi",
+    "english": "fly",
+    "category": "HSK1",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_144454_Facebook.jpg"
+  },
+  {
+    "hanzi": "飞机",
+    "pinyin": "fēi jī",
+    "english": "airplane",
+    "category": "transportation",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_225536_Facebook.jpg"
+  },
+  {
+    "hanzi": "香",
+    "pinyin": "xiāng",
+    "english": "fragrant",
+    "category": "",
+    "frequency": 1,
+    "source_files": "Screenshot_20260604_220835_Facebook.jpg"
+  },
+  {
+    "hanzi": "高低",
+    "pinyin": "gāo dī",
+    "english": "height; good and bad",
+    "category": "opposites",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_224502_Facebook.jpg"
+  },
+  {
+    "hanzi": "高铁",
+    "pinyin": "gāo tiě",
+    "english": "high-speed rail",
+    "category": "transportation",
+    "frequency": 1,
+    "source_files": "Screenshot_20260531_225528_Facebook.jpg"
+  },
+  {
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "english": "bird",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "黄",
+    "pinyin": "huáng",
+    "english": "yellow",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "黑",
+    "pinyin": "hēi",
+    "english": "black",
+    "category": "characters",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_131553_Facebook.jpg"
+  },
+  {
+    "hanzi": "鼠",
+    "pinyin": "shǔ",
+    "english": "Rat",
+    "category": "zodiac",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141930_Facebook.jpg"
+  },
+  {
+    "hanzi": "龙",
+    "pinyin": "lóng",
+    "english": "Dragon",
+    "category": "zodiac",
+    "frequency": 1,
+    "source_files": "Screenshot_20260612_141930_Facebook.jpg"
+  }
+]
