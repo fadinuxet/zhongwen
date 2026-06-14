@@ -2,11 +2,11 @@
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#e11d48"/>
-      <stop offset="1" stop-color="#881337"/>
+      <stop offset="1" stop-color="#9f1239"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="112" fill="url(#g)"/>
-  <text x="50%" y="50%" dy=".05em" text-anchor="middle" dominant-baseline="central"
+  <circle cx="256" cy="256" r="246" fill="url(#g)"/>
+  <text x="50%" y="50%" dy=".02em" text-anchor="middle" dominant-baseline="central"
         font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans SC, sans-serif"
-        font-size="320" font-weight="700" fill="#ffffff">学</text>
+        font-size="205" font-weight="700" fill="#ffffff">法迪</text>
 </svg>

@@ -24,12 +24,14 @@ export default defineConfig({
         ],
       },
       manifest: {
+        id: '/',
         name: '学中文 · Chinese Study',
         short_name: '学中文',
         description: 'Turn the Chinese you meet in the wild into spaced-repetition study cards.',
         theme_color: '#ffffff',
         background_color: '#f4f5f7',
         display: 'standalone',
+        display_override: ['standalone', 'minimal-ui'],
         orientation: 'portrait',
         start_url: '/',
         icons: [

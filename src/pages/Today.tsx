@@ -1,9 +1,11 @@
+import { useState } from 'react'
 import { useLiveQuery } from 'dexie-react-hooks'
 import { Link, useNavigate } from 'react-router-dom'
 import { db } from '../db/db'
 import { getTodayStats } from '../lib/queue'
 import { worldReadablePct } from '../lib/reading'
 import { suggestNextWords } from '../lib/optimizer'
+import { useInstall } from '../lib/useInstall'
 import { useSettings } from '../lib/SettingsContext'
 
 function Stat({ value, label }: { value: number | string; label: string }) {
@@ -39,6 +41,8 @@ function Ring({ pct }: { pct: number }) {
 export default function Today() {
   const { settings } = useSettings()
   const navigate = useNavigate()
+  const { canInstall, install } = useInstall()
+  const [hideInstall, setHideInstall] = useState(false)
   const stats = useLiveQuery(() => getTodayStats(), [])
   const world = useLiveQuery(async () => {
     const c = await db.cards.toArray()
@@ -74,6 +78,23 @@ export default function Today() {
           </div>
         )}
       </header>
+
+      {/* Install banner */}
+      {canInstall && !hideInstall && (
+        <div className="mb-5 flex items-center gap-3 rounded-2xl bg-slate-900 p-3 pl-4 text-white">
+          <img src={`${import.meta.env.BASE_URL}pwa-192x192.png`} alt="" className="h-9 w-9 shrink-0" />
+          <div className="min-w-0 flex-1 text-sm">
+            <div className="font-semibold">Install 学中文</div>
+            <div className="text-xs text-white/60">add it to your desktop / home screen</div>
+          </div>
+          <button onClick={install} className="shrink-0 rounded-lg bg-white px-3 py-1.5 text-sm font-semibold text-slate-900">
+            Install
+          </button>
+          <button onClick={() => setHideInstall(true)} aria-label="Dismiss" className="shrink-0 px-1 text-white/50 hover:text-white">
+            ✕
+          </button>
+        </div>
+      )}
 
       {/* Due-today hero / start review */}
       <Link

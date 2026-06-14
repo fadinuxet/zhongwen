@@ -14,9 +14,12 @@ export default function Layout() {
     <div className="mx-auto flex min-h-full max-w-5xl flex-col sm:flex-row">
       {/* Desktop sidebar */}
       <aside className="hidden sm:flex sm:w-52 sm:flex-col sm:border-r sm:border-slate-200 sm:p-4">
-        <div className="mb-8 px-2">
-          <div className="font-hanzi text-2xl font-bold text-slate-900">学中文</div>
-          <div className="text-xs text-slate-400">Chinese Study</div>
+        <div className="mb-8 flex items-center gap-2.5 px-2">
+          <img src={`${import.meta.env.BASE_URL}pwa-192x192.png`} alt="" className="h-9 w-9 shrink-0" />
+          <div>
+            <div className="font-hanzi text-xl font-bold text-slate-900">学中文</div>
+            <div className="text-[11px] text-slate-400">by 法迪</div>
+          </div>
         </div>
         <nav className="flex flex-col gap-1">
           {tabs.map(({ to, label, Icon }) => (

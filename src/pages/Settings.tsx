@@ -2,6 +2,7 @@ import { useEffect, useState, type ReactNode } from 'react'
 import { useLiveQuery } from 'dexie-react-hooks'
 import { db } from '../db/db'
 import { dedupeDeck, ensureSeeded } from '../lib/seed'
+import { useInstall } from '../lib/useInstall'
 import { useSettings } from '../lib/SettingsContext'
 import { chineseVoices, loadVoices, speak, speechSupported } from '../lib/speech'
 
@@ -32,6 +33,7 @@ function NumberField({ label, value, min, max, onChange }: { label: string; valu
 
 export default function Settings() {
   const { settings, update } = useSettings()
+  const { canInstall, installed, install } = useInstall()
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([])
   const [busy, setBusy] = useState(false)
   const [dedupeMsg, setDedupeMsg] = useState('')
@@ -79,6 +81,23 @@ export default function Settings() {
       <header className="mb-2 mt-4 px-1 sm:mt-0">
         <h1 className="text-2xl font-bold text-slate-900">Settings</h1>
       </header>
+
+      {/* Install the app */}
+      {(canInstall || installed) && (
+        <Section title="App">
+          {installed ? (
+            <div className="flex items-center justify-between px-4 py-3 text-sm">
+              <span className="text-slate-700">Installed on this device</span>
+              <span className="text-emerald-600">✓</span>
+            </div>
+          ) : (
+            <button onClick={install} className="flex w-full items-center justify-between px-4 py-3 text-left text-sm hover:bg-slate-50">
+              <span className="font-medium text-brand-600">Install on this device</span>
+              <span className="text-xs text-slate-400">adds it to your desktop / home screen</span>
+            </button>
+          )}
+        </Section>
+      )}
 
       <Section title="Review">
         <label className="flex items-center justify-between px-4 py-3 text-sm">
