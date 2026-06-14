@@ -107,6 +107,13 @@ export default function Settings() {
           </span>
           <Toggle on={settings.frontIsHanzi} onClick={() => update({ frontIsHanzi: !settings.frontIsHanzi })} />
         </label>
+        <label className="flex items-center justify-between px-4 py-3 text-sm">
+          <span className="text-slate-700">
+            Show Arabic translation
+            <span className="block text-xs text-slate-400">عرض الترجمة العربية مع المعنى</span>
+          </span>
+          <Toggle on={settings.showArabic} onClick={() => update({ showArabic: !settings.showArabic })} />
+        </label>
         <NumberField label="New cards / day" value={settings.newPerDay} min={0} max={200} onChange={(n) => update({ newPerDay: n })} />
         <NumberField label="Max reviews / day" value={settings.maxReviews} min={10} max={1000} onChange={(n) => update({ maxReviews: n })} />
         <NumberField label="Daily goal (reviews)" value={settings.dailyGoal} min={1} max={500} onChange={(n) => update({ dailyGoal: n })} />

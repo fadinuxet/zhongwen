@@ -3,6 +3,7 @@
 @theme {
   --font-sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   --font-hanzi: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', ui-sans-serif, sans-serif;
+  --font-arabic: 'SF Arabic', 'Geeza Pro', 'Noto Naskh Arabic', 'Noto Sans Arabic', 'Segoe UI', ui-sans-serif, sans-serif;
   --color-brand-50: #fff1f3;
   --color-brand-100: #ffe4e8;
   --color-brand-500: #e11d48;
@@ -41,6 +42,10 @@ body {
 
 .font-hanzi {
   font-family: var(--font-hanzi);
+}
+
+.font-arabic {
+  font-family: var(--font-arabic);
 }
 
 /* Hide scrollbars on horizontal filter rails while keeping scroll behavior. */

@@ -2,6 +2,7 @@ import { pinyin } from 'pinyin-pro'
 import { Rating, State } from 'ts-fsrs'
 import { db, type Card, type CardSource } from '../db/db'
 import { freshScheduling, gradeCard } from './fsrs'
+import { arabicFor } from './arabic'
 
 /** A candidate card awaiting review in the capture tray. */
 export interface Draft {
@@ -105,6 +106,7 @@ export async function saveDrafts(drafts: Draft[]): Promise<SaveResult> {
       hanzi: hz,
       pinyin: d.pinyin || pinyin(hz, { toneType: 'symbol' }),
       english: d.english.trim(),
+      arabic: arabicFor(hz) || undefined,
       category: d.category.trim() || 'captured',
       frequency: 0,
       sourceFiles: '',

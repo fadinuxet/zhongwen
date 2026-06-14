@@ -12,6 +12,8 @@ export interface Card {
   hanzi: string
   pinyin: string
   english: string
+  /** Arabic gloss, when known (from the bundled map). Display falls back to a live lookup. */
+  arabic?: string
   category: string
   frequency: number
   sourceFiles: string

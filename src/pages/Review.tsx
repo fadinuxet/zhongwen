@@ -8,6 +8,7 @@ import { useSettings } from '../lib/SettingsContext'
 import { speak } from '../lib/speech'
 import AudioButton from '../components/AudioButton'
 import WordArt from '../components/WordArt'
+import ArabicGloss from '../components/ArabicGloss'
 import { BackIcon } from '../components/Icons'
 
 export default function Review() {
@@ -152,6 +153,7 @@ export default function Review() {
                     <WordArt card={current} className="mb-1 h-24 w-24" />
                     <div className="text-2xl text-sky-600">{current.pinyin}</div>
                     <div className="text-xl text-slate-700">{current.english}</div>
+                    <ArabicGloss card={current} className="text-lg text-slate-500" />
                   </div>
                 )}
               </>
@@ -160,6 +162,7 @@ export default function Review() {
                 {/* English prompt → the picture is a safe recall aid, shown up front. */}
                 <WordArt card={current} className="mb-4 h-24 w-24" />
                 <div className="text-3xl font-semibold text-slate-900 sm:text-4xl">{current.english}</div>
+                <ArabicGloss card={current} className="mt-2 text-xl text-slate-500" />
                 {flipped && (
                   <div className="mt-6 space-y-2">
                     <div className="font-hanzi text-6xl font-bold text-slate-900 sm:text-7xl">{current.hanzi}</div>

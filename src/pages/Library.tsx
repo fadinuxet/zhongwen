@@ -5,6 +5,7 @@ import { db, type Card } from '../db/db'
 import { relativeDue, stateLabel, titleCase } from '../lib/format'
 import { EyeIcon, EyeOffIcon, GridIcon, ListIcon, SearchIcon, ShuffleIcon } from '../components/Icons'
 import AudioButton from '../components/AudioButton'
+import ArabicGloss from '../components/ArabicGloss'
 import CardSheet from '../components/CardSheet'
 import FlipCard from '../components/FlipCard'
 
@@ -175,6 +176,7 @@ export default function Library() {
                 <div className="min-w-0 flex-1">
                   <div className="truncate text-sm text-sky-700">{c.pinyin}</div>
                   <div className="truncate text-sm text-slate-600">{c.english}</div>
+                  <ArabicGloss card={c} className="truncate text-start text-sm text-slate-500" />
                 </div>
                 <div className="flex flex-col items-end gap-1">
                   <span className="rounded-full bg-slate-100 px-2 py-0.5 text-[10px] text-slate-500">

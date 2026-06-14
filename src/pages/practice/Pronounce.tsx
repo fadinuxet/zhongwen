@@ -5,6 +5,7 @@ import { useSettings } from '../../lib/SettingsContext'
 import { speak } from '../../lib/speech'
 import { pronunciationVerdict, recognitionSupported, recognizeOnce } from '../../lib/speechRecognition'
 import { MicIcon, SpeakerIcon } from '../../components/Icons'
+import ArabicGloss from '../../components/ArabicGloss'
 
 type Phase = 'setup' | 'playing' | 'done'
 type RecState = 'idle' | 'listening' | 'result' | 'error'
@@ -138,6 +139,7 @@ export default function Pronounce() {
           <div className="font-hanzi text-7xl font-bold text-slate-900">{current.hanzi}</div>
           <div className="mt-2 text-2xl text-sky-600">{current.pinyin}</div>
           <div className="text-lg text-slate-600">{current.english}</div>
+          <ArabicGloss card={current} className="text-base text-slate-500" />
           <button
             onClick={() => speak(current.hanzi, { voiceURI: settings.voiceURI, rate: settings.speechRate })}
             className="mt-4 flex h-11 w-11 items-center justify-center rounded-full bg-slate-100 text-slate-600 ring-1 ring-slate-200"

@@ -5,6 +5,7 @@ import { speak } from '../../lib/speech'
 import { recognitionSupported, recognizeOnce } from '../../lib/speechRecognition'
 import { shadowScore } from '../../lib/shadow'
 import { MicIcon, SpeakerIcon } from '../../components/Icons'
+import ArabicGloss from '../../components/ArabicGloss'
 
 type Phase = 'setup' | 'playing' | 'done'
 type RecState = 'idle' | 'listening' | 'result' | 'error'
@@ -124,6 +125,7 @@ export default function Shadow() {
           <div className="font-hanzi text-4xl font-bold leading-snug text-slate-900">{current.hanzi}</div>
           <div className="mt-2 text-lg text-sky-600">{current.pinyin}</div>
           <div className="text-sm text-slate-500">{current.english}</div>
+          <ArabicGloss card={current} className="text-sm text-slate-500" />
           <button onClick={() => play(current)} className="mt-3 flex h-11 w-11 items-center justify-center rounded-full bg-slate-100 text-slate-600 ring-1 ring-slate-200" aria-label="Hear it">
             <SpeakerIcon className="h-5 w-5" />
           </button>

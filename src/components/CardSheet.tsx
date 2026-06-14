@@ -4,6 +4,7 @@ import { freshScheduling } from '../lib/fsrs'
 import { exampleSentence } from '../lib/enrich'
 import { ensureDecomp, meaningfulComponents, mnemonic, type DecompMap } from '../lib/decomp'
 import WordArt from './WordArt'
+import ArabicGloss from './ArabicGloss'
 import { relativeDue, stateLabel, titleCase } from '../lib/format'
 import { useSettings } from '../lib/SettingsContext'
 import { speak, speechSupported } from '../lib/speech'
@@ -62,6 +63,7 @@ export default function CardSheet({ card, onClose }: Props) {
               <div className="font-hanzi text-5xl font-bold text-slate-900">{card.hanzi}</div>
               <div className="mt-2 text-xl text-sky-600">{card.pinyin}</div>
               <div className="text-lg text-slate-700">{card.english}</div>
+              <ArabicGloss card={card} className="mt-0.5 text-base text-slate-500" />
             </div>
           </div>
           <AudioButton text={card.hanzi} size="lg" />

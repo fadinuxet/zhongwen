@@ -4,6 +4,7 @@ import type { Card } from '../db/db'
 import { categoryHue, titleCase } from '../lib/format'
 import { exampleSentence } from '../lib/enrich'
 import WordArt from './WordArt'
+import ArabicGloss from './ArabicGloss'
 import { useSettings } from '../lib/SettingsContext'
 import { speak, speechSupported } from '../lib/speech'
 import { InfoIcon, SpeakerIcon } from './Icons'
@@ -99,6 +100,7 @@ export default function FlipCard({ card, flipped, onFlip, onDetails }: Props) {
 
           <div className="flex flex-1 flex-col items-center justify-center px-1 text-center">
             <div className="text-base font-semibold leading-snug text-slate-800">{card.english}</div>
+            <ArabicGloss card={card} className="mt-1 text-sm leading-snug text-slate-500" />
             {card.state !== State.New && <div className="mt-1 text-[10px] text-brand-400">in your deck</div>}
           </div>
 

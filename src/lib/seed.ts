@@ -1,5 +1,6 @@
 import { db, getMeta, setMeta, type Card } from '../db/db'
 import { freshScheduling } from './fsrs'
+import { arabicFor } from './arabic'
 import seedData from '../data/seed.json'
 
 interface SeedRow {
@@ -35,6 +36,7 @@ async function doSeed(): Promise<void> {
       hanzi: r.hanzi,
       pinyin: r.pinyin ?? '',
       english: r.english ?? '',
+      arabic: arabicFor(r.hanzi) || undefined,
       category: r.category?.trim() || 'uncategorized',
       frequency: r.frequency ?? 0,
       sourceFiles: r.source_files ?? '',

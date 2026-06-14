@@ -4,6 +4,7 @@ import { useSettings } from '../../lib/SettingsContext'
 import { speak } from '../../lib/speech'
 import { TONES, toneContour, toneOf, toneTrainerPool, type Tone } from '../../lib/tones'
 import { SpeakerIcon } from '../../components/Icons'
+import ArabicGloss from '../../components/ArabicGloss'
 
 type Phase = 'setup' | 'playing' | 'done'
 
@@ -104,6 +105,7 @@ export default function Tones() {
               <div className="font-hanzi text-5xl font-bold text-slate-900">{current.hanzi}</div>
               <div className="mt-1 text-xl text-sky-600">{current.pinyin}</div>
               <div className="text-sm text-slate-500">{current.english}</div>
+              <ArabicGloss card={current} className="text-sm text-slate-500" />
             </div>
           )}
         </div>

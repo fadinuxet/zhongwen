@@ -5,6 +5,7 @@ import { analyzeReadability, type ReadableSentence } from '../../lib/reading'
 import { useSettings } from '../../lib/SettingsContext'
 import { speak, speechSupported } from '../../lib/speech'
 import { SpeakerIcon } from '../../components/Icons'
+import ArabicGloss from '../../components/ArabicGloss'
 
 export default function Reading() {
   const { settings } = useSettings()
@@ -52,6 +53,7 @@ export default function Reading() {
                     <Sentence s={s} />
                     <div className="truncate text-sm text-sky-700">{s.card.pinyin}</div>
                     <div className="truncate text-sm text-slate-500">{s.card.english}</div>
+                    <ArabicGloss card={s.card} className="truncate text-start text-sm text-slate-500" />
                   </div>
                   {speechSupported() && (
                     <button onClick={() => play(s.card.hanzi)} aria-label="Play" className="shrink-0 rounded-full bg-slate-100 p-2 text-slate-600 ring-1 ring-slate-200">

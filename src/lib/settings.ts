@@ -6,6 +6,8 @@ export interface Settings {
   dailyGoal: number
   /** Review front shows hanzi (recall English) when true; otherwise shows English. */
   frontIsHanzi: boolean
+  /** Show the Arabic gloss alongside the English meaning. */
+  showArabic: boolean
   /** Preferred speech-synthesis voice URI, or '' for the browser default. */
   voiceURI: string
   speechRate: number
@@ -16,6 +18,7 @@ export const DEFAULT_SETTINGS: Settings = {
   maxReviews: 200,
   dailyGoal: 30,
   frontIsHanzi: true,
+  showArabic: true,
   voiceURI: '',
   speechRate: 0.9,
 }
